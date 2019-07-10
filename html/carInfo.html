@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("button").click(function() {
+					$.getJSON("carInfo.json", function(result) {
+						$.each(result, function(i, field) {
+							$("div").append(field.brand1 + "---" + field.brand2 + "---" + field.series+";");
+						});
+					});
+				});
+			});
+		</script>
+	</head>
+
+	<body>
+
+		<button>获得 JSON 数据</button>
+		<div></div>
+
+	</body>
+</html>
