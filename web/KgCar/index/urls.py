@@ -11,4 +11,5 @@ urlpatterns = [
     # 返回主页
     re_path(r'^index/$', views.index_views),
     re_path(r'^$', views.index_views),
+
 ]
