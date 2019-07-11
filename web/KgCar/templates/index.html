@@ -1,48 +1,108 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Bootstrap 实例</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
-  <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
-  <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <title>汽车数据知识图谱</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="./js/d3.v5.min.js"></script>
+    <script src="js/echarts/echarts.min.js"></script>
+
 </head>
 <body>
-
-<div class="container">
-  <h2>选项卡切换</h2>
-  <br>
-  <!-- Nav tabs -->
-  <ul class="nav nav-tabs" role="tablist">
-    <li class="nav-item">
-      <a class="nav-link active" data-toggle="tab" href="#home">Home</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu1">Menu 1</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#menu2">Menu 2</a>
-    </li>
-  </ul>
-
-  <!-- Tab panes -->
-  <div class="tab-content">
-    <div id="home" class="container tab-pane active"><br>
-      <h3>HOME</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    </div>
-    <div id="menu1" class="container tab-pane fade"><br>
-      <h3>Menu 1</h3>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-    <div id="menu2" class="container tab-pane fade"><br>
-      <h3>Menu 2</h3>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-    </div>
-  </div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h1>汽车数据知识图谱</h1>
 </div>
 
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="#">主页</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/relationship_graph">关系图谱</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/entity_recognition">实体识别</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="container">
+
+
+    <!-- Tab panes -->
+    <div class="tab-content">
+        <div id="home" class="container tab-pane active"><br>
+            <h3>*项目简介</h3>
+            <p>
+                该项目是一个通过数据爬取，数据处理，数据展示，完成数据搜索。
+            </p>
+            <h4>一、开发环境</h4>
+            <p>
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>开发环境</th>
+                    <th>使用工具</th>
+                    <th>语言版本</th>
+                    <th>表格展示工具</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>window10</td>
+                    <td>Anconda<br>PyCharm<br>VSCode</td>
+                    <td>python3.7</td>
+                    <td> EChars<br>D3</td>
+                </tr>
+                </tbody>
+            </table>
+            </p>
+            <h4>二、数据来源</h4>
+            <p>
+                （二手数据）网易汽车数据 <br>
+                数据爬取技术：BeautifulSoup
+
+            </p>
+            <h4>三、数据处理</h4>
+            <p>
+                通过获取的数据<br>
+                生成DataFrame表格，然后py2neo操作neo4j，插入数据，创建关系<br>
+                生成Json文件，准备展示在页面上
+            </p>
+            <h4>四、数据展示</h4>
+            <p>
+                Django Web <br>
+                EChars or D3
+            </p>
+            <h4>五、实体识别</h4>
+            <p>
+                数据实体识别<br>
+            <ul>
+                1.通用实体识别
+                <li>一般包括三大类（实体类、时间类、数字类）</li>
+                <li>七小类（人名、机构名、地名、时间、日期、货币和百分比）</li>
+            </ul>
+            <ul>
+                2.垂直领域的实体识别<br>根据行业的特点，利用爬去数据设计字典
+            </ul>
+            </p>
+        </div>
+    </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+    <p>
+        制作人：张雅琛<br>
+        联系方式：aachen_z@163.com
+    </p>
+</div>
 </body>
 </html>
