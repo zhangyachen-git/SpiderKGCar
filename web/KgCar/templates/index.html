@@ -1,24 +1,48 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>主页</title>
+  <title>Bootstrap 实例</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
+  <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
+  <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
 </head>
-<!-- 新 Bootstrap4 核心 CSS 文件 -->
-<link rel="stylesheet" href="css/bootstrap.min.css">
-
-<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
-<script src="js/jquery-3.4.1.min.js"></script>
-
-<!-- popper.min.js 用于弹窗、提示、下拉菜单 -->
-<script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
-
-<!-- 最新的 Bootstrap4 核心 JavaScript 文件 -->
-<script src="js/bootstrap.min.js"></script>
 <body>
-<div class="container-fluid">
-  <h1>我的第一个 Bootstrap 页面</h1>
-  <p>使用了 .container-fluid，100% 宽度，占据全部视口（viewport）的容器。</p>
+
+<div class="container">
+  <h2>选项卡切换</h2>
+  <br>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li class="nav-item">
+      <a class="nav-link active" data-toggle="tab" href="#home">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu1">Menu 1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu2">Menu 2</a>
+    </li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div id="home" class="container tab-pane active"><br>
+      <h3>HOME</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div id="menu1" class="container tab-pane fade"><br>
+      <h3>Menu 1</h3>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+    <div id="menu2" class="container tab-pane fade"><br>
+      <h3>Menu 2</h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+    </div>
+  </div>
 </div>
+
 </body>
 </html>
