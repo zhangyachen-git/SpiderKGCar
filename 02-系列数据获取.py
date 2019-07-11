@@ -5,6 +5,7 @@ import csv
 import os
 import random
 import re
+import json
 import urllib.request
 
 import pandas as pd
@@ -68,12 +69,18 @@ def series_file():
                         brand_list.append(
                             {"brand_name": line, "type": 3, "brand_type": brand_type})
 
-    for list_part in brand_list:
-        print(list_part)
-    # 写入文件
+    # for list_part in brand_list:
+        # print(list_part)
+    # 写入csv文件
     brands = pd.DataFrame(brand_list)
     brands.to_csv('./data/brand_series.csv', encoding="utf_8_sig")
-    brands.to_json('./data/brand_series.json')
+    # 转换成json
+    json_str = json.dumps(brand_list)
+    new_dict = json.loads(json_str)
+    print(json_str)
+    with open("./data/brand_series.json","w") as f:
+        json.dump(new_dict,f)
+        print("加载入文件完成...")
 
 if __name__ == "__main__":
     print("流程开始")

@@ -1,23 +1,33 @@
+<!DOCTYPE html>
 <html>
-	<head>
-		<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$("button").click(function() {
-					$.getJSON("carInfo.json", function(result) {
-						$.each(result, function(i, field) {
-							$("div").append(field.brand1 + "---" + field.brand2 + "---" + field.series+";");
-						});
-					});
-				});
-			});
-		</script>
-	</head>
 
-	<body>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<script type="text/javascript" src="./js/d3.v5.min.js"></script>
+	<script type="text/javascript" src="./js/jquery-3.4.1.min.js"></script>
+</head>
 
-		<button>获得 JSON 数据</button>
-		<div></div>
+<body>
+	<div id="container">
+	</div>
+</body>
 
-	</body>
 </html>
+<script type="text/jscript">
+	$(function () {
+		$.getJSON("brand_series.json", function (data) {
+			var $jsontip = $("#jsonTip");
+			var strHtml = "123";
+			//存储数据的变量 
+			$jsontip.empty();
+			//清空内容 
+			$.each(data, function (infoIndex, info) {
+				
+			})
+			$jsontip.html(strHtml);
+			//显示处理后的数据 
+		})
+
+	});
+</script>
