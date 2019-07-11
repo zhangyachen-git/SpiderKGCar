@@ -13,8 +13,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/relationshipGraph.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="91" column="38" selection-start-line="90" selection-start-column="4" selection-end-line="91" selection-end-column="59" />
+            <state relative-caret-position="175">
+              <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/json/nodes.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,15 +60,15 @@
         <option value="$PROJECT_DIR$/static/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/index/urls.py" />
         <option value="$PROJECT_DIR$/KgCar/urls.py" />
+        <option value="$PROJECT_DIR$/templates/relationshipGraph_copy.html" />
         <option value="$PROJECT_DIR$/templates/relationshipGraph.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-2" />
-    <option name="width" value="816" />
-    <option name="height" value="916" />
+    <option name="x" value="793" />
+    <option name="width" value="814" />
+    <option name="height" value="907" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -92,13 +101,13 @@
               <item name="KgCar" type="b2602c69:ProjectViewProjectNode" />
               <item name="KgCar" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KgCar" type="b2602c69:ProjectViewProjectNode" />
               <item name="KgCar" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KgCar" type="b2602c69:ProjectViewProjectNode" />
@@ -115,21 +124,21 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates" />
+      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\json" />
+      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js\echarts" />
+      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\static\js" />
       <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\static" />
       <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js\echarts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\json" />
-      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js\echarts" />
-      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js" />
-      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,21 +192,23 @@
       <workItem from="1562834551302" duration="8590000" />
       <workItem from="1562846694406" duration="20046000" />
       <workItem from="1562869260053" duration="788000" />
+      <workItem from="1562879157139" duration="1875000" />
+      <workItem from="1562881474278" duration="552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29424000" />
+    <option name="totallyTimeSpent" value="31851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-2" width="816" height="916" extended-state="0" />
+    <frame x="793" y="0" width="814" height="907" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17328042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29575598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3255814" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3192848" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32299742" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39922482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,10 +339,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/json/edges.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/json/nodes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/relationshipGraph_copy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="104" column="39" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/relationshipGraph.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="91" column="38" selection-start-line="90" selection-start-column="4" selection-end-line="91" selection-end-column="59" />
+        <state relative-caret-position="175">
+          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
         </state>
       </provider>
     </entry>

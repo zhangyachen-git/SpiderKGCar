@@ -11,7 +11,8 @@ def toNodes_file():
     for datas_list in datas_lists:
         # print(datas_list)
         # print('*********************')
-        nodes.append({'id': datas_list[0], 'name': datas_list[1]})
+        # nodes.append({'id': datas_list[0], 'name': datas_list[1]})
+        nodes.append({'name': datas_list[1]})
     to_json(nodes, 'nodes')
 
 
@@ -47,23 +48,22 @@ def toEdges_file():
                     level2 = brand_list[0]
                     if len(str(level1)) > 0:
                         edges.append(
-                            {"source": level1, "target": level2, "relation": "下属于"})
+                            {"source": level1, "target": level2, "relation": "下属于", "value": 1})
                 else:
                     level3 = brand_list[0]
                     if len(str(level2)) > 0:
                         edges.append(
-                            {"source": level2, "target": level3, "relation": "下属于"})
+                            {"source": level2, "target": level3, "relation": "下属于", "value": 1})
     print(edges)
     to_json(edges, 'edges')
 
 
 def to_json(list_name, file_name):
     # 转换成json
-    json_str = json.dumps(list_name)
-    new_dict = json.loads(json_str)
+    json_str = json.dumps(list_name, ensure_ascii=False, indent=2)
     # print(json_str)
-    with open("./data/"+file_name+".json", "w") as f:
-        json.dump(new_dict, f)
+    with open("./data/"+file_name+".json", "w", encoding="utf-8") as f:
+        f.write(json_str)
         print("加载入文件完成...")
 
 
