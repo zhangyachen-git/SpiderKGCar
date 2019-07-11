@@ -45,11 +45,3 @@ def entity_recognition(request):
     return HttpResponse(html)
 
 
-# 测试
-def test(request):
-    # 1.通过loader加载模板
-    t = loader.get_template("test.html")
-    # 2.将模板渲染成字符串
-    html = t.render()
-    # 3.将字符串通过HttpResponse响应给浏览器
-    return HttpResponse(html)
