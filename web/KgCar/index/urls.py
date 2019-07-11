@@ -2,8 +2,6 @@ from django.urls import re_path
 from . import views
 
 urlpatterns = [
-    # 测试
-    re_path(r'^test/$', views.test),
     # 实体识别
     re_path(r'^entity_recognition/$', views.entity_recognition),
     # 关系图谱

@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>关系图谱</title>
-    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
-    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
-    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
-    <script src="/js/d3.v5.min.js"></script>
-    <script src="/js/echarts/echarts.js"></script>
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css">
+    <script src="../static/js/jquery.min.js"></script>
+    <script src="../static/js/popper.min.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
+    <script src="../static/js/d3.v5.min.js"></script>
+    <script src="../static/js/echarts.js"></script>
 
 </head>
 
@@ -55,7 +55,8 @@
     <br>
     <div>
         <h4>图形展示</h4>
-        <div id="chart" style="width:400px;height:400px;"></div>
+        <br>
+
     </div>
 </div>
 <div class="jumbotron text-center" style="margin-bottom:0">
@@ -66,29 +67,6 @@
 </div>
 </body>
 <script type="text/javascript">
-    // 初始化图表标签
-    var myChart = echarts.init(document.getElementById('chart'));
-    var options = {
-        //定义一个标题
-        title: {
-            text: '测试成绩'
-        },
-        legend: {
-            data: ['销量']
-        },
-        //X轴设置
-        xAxis: {
-            data: ['60分', '70分', '80分', '90分', '100分']
-        },
-        yAxis: {},
-        //name=legend.data的时候才能显示图例
-        series: [{
-            name: '销量',
-            type: 'bar',
-            data: ['12', '32', '45', '21', '1']
-        }]
 
-    };
-    myChart.setOption(options);
 </script>
 </html>
