@@ -52,35 +52,34 @@ def series_file():
             count = 0
             brand_type += 1
             lines = brand_series_part.get_text().split('\n')
+            typeCount1 = 0
             for line in lines:
+                typeCount2 = 0
                 if len(line) > 0:
                     if line[0] == '+':
                         if count <= 0:
                             count += 1
                             line = line[1:].split('(', 2)[0]
                             brand_list.append(
-                                {"brand_name": line,  "type": 1, "brand_type": brand_type})
+                                {"brand_name": line,  "type": "1"+str(typeCount1)+str(typeCount2), "brand_type": brand_type})
                         else:
+                            typeCount1 += 1
                             line = line[1:].split('(', 2)[0]
                             brand_list.append(
-                                {"brand_name": line, "type": 2, "brand_type": brand_type})
+                                {"brand_name": line, "type": "1"+str(typeCount1)+str(typeCount2), "brand_type": brand_type})
                     else:
+                        typeCount2 += 1
                         line = line.split('(', 2)[0]
                         brand_list.append(
-                            {"brand_name": line, "type": 3, "brand_type": brand_type})
+                            {"brand_name": line, "type":  "1"+str(typeCount1)+str(typeCount2), "brand_type": brand_type})
 
     # for list_part in brand_list:
         # print(list_part)
     # 写入csv文件
     brands = pd.DataFrame(brand_list)
-    brands.to_csv('./data/brand_series.csv', encoding="utf_8_sig")
-    # 转换成json
-    json_str = json.dumps(brand_list)
-    new_dict = json.loads(json_str)
-    print(json_str)
-    with open("./data/brand_series.json","w") as f:
-        json.dump(new_dict,f)
-        print("加载入文件完成...")
+    brands.to_csv('./data/brand_series.csv',
+                  index_label="index", encoding="utf_8_sig")
+
 
 if __name__ == "__main__":
     print("流程开始")
