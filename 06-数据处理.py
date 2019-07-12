@@ -27,8 +27,6 @@ def toEdges_file():
     for i in range(0, count, 1):
         brand_datas = data_df[data_df['brand_type'] == i]
         # print(brand_datas)
-        types = brand_datas['type'].drop_duplicates(keep='first', inplace=False)
-        # print(types)
         brand_lists = np.array(brand_datas)
         # print(brand_lists)
         level1=""
@@ -48,13 +46,13 @@ def toEdges_file():
                 print(brand_list)
                 level3=brand_list[0]
                 level3Name=brand_list[1]
-                edges.append( {"source": level2,"source_name":level2Name, "target": level3,"target_name":level3Name, "relation": "下属于", "value": 1})
+                edges.append( {"source": level2,"source_name":level2Name, "target": level3,"target_name":level3Name,  "relation": "下属于", "brand_num": i})
             else:
                 print("品牌2")
                 print(brand_list)
                 level2=brand_list[0]
                 level2Name=brand_list[1]
-                edges.append( {"source": level1,"source_name":level1Name, "target": level2,"target_name":level2Name, "relation": "下属于", "value": 1})
+                edges.append( {"source": level1,"source_name":level1Name, "target": level2,"target_name":level2Name, "relation": "下属于", "brand_num": i})
             
     to_json(edges, 'edges')
 
