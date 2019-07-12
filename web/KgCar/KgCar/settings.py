@@ -116,5 +116,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 # 关联根目录和 static 文件夹
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "static")
+    os.path.join(BASE_DIR, "static"),
 ]
