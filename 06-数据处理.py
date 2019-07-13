@@ -44,7 +44,7 @@ def toEdges_file():
                 level1 = brand_num
                 level1Name = brand_list[1]
                 edges.append({"source": 0, "target": level1,
-                              "relation": "next", "value": 1})
+                              "relation": "next", "value": 3})
             elif str(brand_list[3])[-1] == '1':
                 print("品牌下的系列")
                 print(brand_list)
@@ -58,7 +58,7 @@ def toEdges_file():
                 level2 = brand_num
                 level2Name = brand_list[1]
                 edges.append({"source": level1, "target": level2,
-                              "relation": "next", "value": 1})
+                              "relation": "next", "value": 2})
 
     to_json(edges, 'edges')
 
@@ -73,5 +73,5 @@ def to_json(list_name, file_name):
 
 
 if __name__ == "__main__":
-    toNodes_file()
+    # toNodes_file()
     toEdges_file()
