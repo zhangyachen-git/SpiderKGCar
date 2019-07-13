@@ -44,14 +44,14 @@ def toEdges_file():
                 level1 = brand_num
                 level1Name = brand_list[1]
                 edges.append({"source": 0, "target": level1,
-                              "relation": "next", "value": 3})
+                              "relation": "next", "value": 1})
             elif str(brand_list[3])[-1] == '1':
                 print("品牌下的系列")
                 print(brand_list)
                 level3 = brand_num
                 level3Name = brand_list[1]
                 edges.append({"source": level2, "target": level3,
-                              "relation": "next", "value": 1})
+                              "relation": "next", "value": 3})
             else:
                 print("品牌2")
                 print(brand_list)

@@ -68,7 +68,7 @@
 </div>
 </body>
 <script type="text/javascript">
-    var width = 1000, height = 1000,
+    var width = 1100, height = 1000,
         margin = {left: 50, top: 30, right: 20, bottom: 20},
         g_width = width - margin.left - margin.right,
         g_height = height - margin.top - margin.bottom;
@@ -105,7 +105,7 @@
     forceSimulation.force("link")
         .links(edges)
         .distance(function (d) {//每一边的长度
-            return d.value * 100;
+            return d.value * 200;
         });
     //设置图形的中心位置
     forceSimulation.force("center")
@@ -154,7 +154,7 @@
 
     //绘制节点
     gs.append("circle")
-        .attr("r", 10)
+        .attr("r", 15)
         .attr("fill", function (d, i) {
             return colorScale(i);
         });
