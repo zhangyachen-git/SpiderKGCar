@@ -1,5201 +1,8667 @@
 [
   {
-    "name": "汽车图谱"
+    "name": "汽车图谱",
+    "circleR": 20,
+    "group": 0
   },
   {
-    "name": "奥迪"
+    "name": "奥迪",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "一汽-大众奥迪"
+    "name": "一汽-大众奥迪",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奥迪A3两厢"
+    "name": "奥迪A3两厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A3三厢"
+    "name": "奥迪A3三厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A4L"
+    "name": "奥迪A4L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A6L"
+    "name": "奥迪A6L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪Q2L"
+    "name": "奥迪Q2L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪Q2L e-tron"
+    "name": "奥迪Q2L e-tron",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪Q3"
+    "name": "奥迪Q3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪Q5L"
+    "name": "奥迪Q5L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口奥迪"
+    "name": "进口奥迪",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奥迪A3"
+    "name": "奥迪A3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A4 Allroad"
+    "name": "奥迪A4 Allroad",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A5"
+    "name": "奥迪A5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A6 Avant"
+    "name": "奥迪A6 Avant",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A6 Allroad"
+    "name": "奥迪A6 Allroad",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A7"
+    "name": "奥迪A7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪A8L"
+    "name": "奥迪A8L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪Q7"
+    "name": "奥迪Q7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪Q7 e-tron"
+    "name": "奥迪Q7 e-tron",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪Q8"
+    "name": "奥迪Q8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪TT"
+    "name": "奥迪TT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪e-tron"
+    "name": "奥迪e-tron",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Audi Sport"
+    "name": "Audi Sport",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奥迪S3"
+    "name": "奥迪S3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪S4"
+    "name": "奥迪S4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪S5"
+    "name": "奥迪S5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪S6"
+    "name": "奥迪S6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪S7"
+    "name": "奥迪S7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪TTS"
+    "name": "奥迪TTS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪RS3"
+    "name": "奥迪RS3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪RS4 Avant"
+    "name": "奥迪RS4 Avant",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪RS5"
+    "name": "奥迪RS5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪RS6 Avant"
+    "name": "奥迪RS6 Avant",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪RS7"
+    "name": "奥迪RS7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪TT RS"
+    "name": "奥迪TT RS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥迪R8"
+    "name": "奥迪R8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "阿尔法·罗密欧"
+    "name": "阿尔法·罗密欧",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "阿尔法·罗密欧"
+    "name": "阿尔法·罗密欧",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Giulia"
+    "name": "Giulia",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Stelvio"
+    "name": "Stelvio",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "阿斯顿·马丁"
+    "name": "阿斯顿·马丁",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "阿斯顿·马丁"
+    "name": "阿斯顿·马丁",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Rapide"
+    "name": "Rapide",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Rapide E"
+    "name": "Rapide E",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "V8 Vantage"
+    "name": "V8 Vantage",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Vanquish"
+    "name": "Vanquish",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "DB11"
+    "name": "DB11",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "DBS"
+    "name": "DBS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "ARCFOX"
+    "name": "ARCFOX",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北汽集团"
+    "name": "北汽集团",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "ARCFOX-7"
+    "name": "ARCFOX-7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "ALPINA"
+    "name": "ALPINA",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "ALPINA"
+    "name": "ALPINA",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "ALPINA B4"
+    "name": "ALPINA B4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "爱驰"
+    "name": "爱驰",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "爱驰"
+    "name": "爱驰",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "爱驰U5"
+    "name": "爱驰U5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "艾康尼克"
+    "name": "艾康尼克",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "艾康尼克"
+    "name": "艾康尼克",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "艾康尼克七系"
+    "name": "艾康尼克七系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰"
+    "name": "奔驰",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "进口奔驰"
+    "name": "进口奔驰",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奔驰B级"
+    "name": "奔驰B级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰CLA级"
+    "name": "奔驰CLA级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰C级"
+    "name": "奔驰C级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰C级旅行版"
+    "name": "奔驰C级旅行版",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰E级"
+    "name": "奔驰E级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰CLS级"
+    "name": "奔驰CLS级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰S级"
+    "name": "奔驰S级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLC"
+    "name": "奔驰GLC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLE"
+    "name": "奔驰GLE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLS"
+    "name": "奔驰GLS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰G级"
+    "name": "奔驰G级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰R级"
+    "name": "奔驰R级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰SLC级"
+    "name": "奔驰SLC级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰SL级"
+    "name": "奔驰SL级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "梅赛德斯-AMG"
+    "name": "梅赛德斯-AMG",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奔驰A级AMG"
+    "name": "奔驰A级AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰CLA AMG"
+    "name": "奔驰CLA AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰C AMG"
+    "name": "奔驰C AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰E AMG"
+    "name": "奔驰E AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰S AMG"
+    "name": "奔驰S AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLA AMG"
+    "name": "奔驰GLA AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLC AMG"
+    "name": "奔驰GLC AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLE AMG"
+    "name": "奔驰GLE AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLS AMG"
+    "name": "奔驰GLS AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰G AMG"
+    "name": "奔驰G AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰AMG GT"
+    "name": "奔驰AMG GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "梅赛德斯-迈巴赫"
+    "name": "梅赛德斯-迈巴赫",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "迈巴赫S级"
+    "name": "迈巴赫S级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈巴赫G级"
+    "name": "迈巴赫G级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北京奔驰"
+    "name": "北京奔驰",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奔驰A级"
+    "name": "奔驰A级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰A级AMG"
+    "name": "奔驰A级AMG",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰C级"
+    "name": "奔驰C级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰E级"
+    "name": "奔驰E级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLA"
+    "name": "奔驰GLA",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰GLC"
+    "name": "奔驰GLC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔驰EQC"
+    "name": "奔驰EQC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福建奔驰"
+    "name": "福建奔驰",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奔驰V级"
+    "name": "奔驰V级",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威霆"
+    "name": "威霆",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凌特"
+    "name": "凌特",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "梅赛德斯-EQ"
+    "name": "梅赛德斯-EQ",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奔驰EQC"
+    "name": "奔驰EQC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马"
+    "name": "宝马",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华晨宝马"
+    "name": "华晨宝马",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "宝马1系"
+    "name": "宝马1系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马2系旅行车"
+    "name": "宝马2系旅行车",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马3系"
+    "name": "宝马3系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马5系"
+    "name": "宝马5系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马5系Le"
+    "name": "宝马5系Le",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X1"
+    "name": "宝马X1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X1插电混动"
+    "name": "宝马X1插电混动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X3"
+    "name": "宝马X3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口宝马"
+    "name": "进口宝马",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "宝马1系两厢"
+    "name": "宝马1系两厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马2系"
+    "name": "宝马2系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马2系Gran Tourer"
+    "name": "宝马2系Gran Tourer",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马3系GT"
+    "name": "宝马3系GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马4系"
+    "name": "宝马4系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马5系"
+    "name": "宝马5系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马6系"
+    "name": "宝马6系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马6系GT"
+    "name": "宝马6系GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马7系"
+    "name": "宝马7系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X2"
+    "name": "宝马X2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X4"
+    "name": "宝马X4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X5"
+    "name": "宝马X5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X6"
+    "name": "宝马X6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X7"
+    "name": "宝马X7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马Z4"
+    "name": "宝马Z4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马8系"
+    "name": "宝马8系",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马M"
+    "name": "宝马M",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "宝马M2"
+    "name": "宝马M2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马M3"
+    "name": "宝马M3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马M4"
+    "name": "宝马M4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马M5"
+    "name": "宝马M5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马M6"
+    "name": "宝马M6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X3M"
+    "name": "宝马X3M",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X4M"
+    "name": "宝马X4M",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X5M"
+    "name": "宝马X5M",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马X6M"
+    "name": "宝马X6M",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马i"
+    "name": "宝马i",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "宝马i"
+    "name": "宝马i",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "宝马i3"
+    "name": "宝马i3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝马i8"
+    "name": "宝马i8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏"
+    "name": "宝骏",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽通用五菱"
+    "name": "上汽通用五菱",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "宝骏E100"
+    "name": "宝骏E100",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏E200"
+    "name": "宝骏E200",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏310"
+    "name": "宝骏310",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏310W"
+    "name": "宝骏310W",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏510"
+    "name": "宝骏510",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏530"
+    "name": "宝骏530",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏RS-5"
+    "name": "宝骏RS-5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏360"
+    "name": "宝骏360",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏730"
+    "name": "宝骏730",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏RC-6"
+    "name": "宝骏RC-6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝骏CN202M"
+    "name": "宝骏CN202M",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "保时捷"
+    "name": "保时捷",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "保时捷"
+    "name": "保时捷",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Panamera"
+    "name": "Panamera",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Panamera新能源"
+    "name": "Panamera新能源",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Macan"
+    "name": "Macan",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Cayenne"
+    "name": "Cayenne",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Cayenne新能源"
+    "name": "Cayenne新能源",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "保时捷718"
+    "name": "保时捷718",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "保时捷911"
+    "name": "保时捷911",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "别克"
+    "name": "别克",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽通用别克"
+    "name": "上汽通用别克",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "凯越"
+    "name": "凯越",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英朗"
+    "name": "英朗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "阅朗"
+    "name": "阅朗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威朗两厢"
+    "name": "威朗两厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威朗"
+    "name": "威朗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "君威"
+    "name": "君威",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "君越"
+    "name": "君越",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "VELITE 5"
+    "name": "VELITE 5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "VELITE 6"
+    "name": "VELITE 6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "别克GL6"
+    "name": "别克GL6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "别克GL8"
+    "name": "别克GL8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昂科拉"
+    "name": "昂科拉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昂科拉GX"
+    "name": "昂科拉GX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昂科威"
+    "name": "昂科威",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口别克"
+    "name": "进口别克",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "昂科雷"
+    "name": "昂科雷",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "本田"
+    "name": "本田",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽本田"
+    "name": "广汽本田",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "飞度"
+    "name": "飞度",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "锋范"
+    "name": "锋范",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凌派"
+    "name": "凌派",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雅阁"
+    "name": "雅阁",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "缤智"
+    "name": "缤智",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "冠道"
+    "name": "冠道",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奥德赛"
+    "name": "奥德赛",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风本田"
+    "name": "东风本田",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "竞瑞"
+    "name": "竞瑞",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哥瑞"
+    "name": "哥瑞",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "享域"
+    "name": "享域",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "思域"
+    "name": "思域",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "杰德"
+    "name": "杰德",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "思铂睿"
+    "name": "思铂睿",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "本田INSPIRE"
+    "name": "本田INSPIRE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "本田XR-V"
+    "name": "本田XR-V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "本田CR-V"
+    "name": "本田CR-V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "本田UR-V"
+    "name": "本田UR-V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "艾力绅"
+    "name": "艾力绅",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致"
+    "name": "标致",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风标致"
+    "name": "东风标致",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "标致301"
+    "name": "标致301",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致308"
+    "name": "标致308",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致408"
+    "name": "标致408",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致508"
+    "name": "标致508",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致508L PHEV"
+    "name": "标致508L PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致2008"
+    "name": "标致2008",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致3008"
+    "name": "标致3008",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致4008"
+    "name": "标致4008",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "标致5008"
+    "name": "标致5008",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾"
+    "name": "奔腾",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "一汽奔腾"
+    "name": "一汽奔腾",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奔腾B30"
+    "name": "奔腾B30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾B30EV"
+    "name": "奔腾B30EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾B50"
+    "name": "奔腾B50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾B70"
+    "name": "奔腾B70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾B90"
+    "name": "奔腾B90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾X40"
+    "name": "奔腾X40",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾X40EV"
+    "name": "奔腾X40EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾T33"
+    "name": "奔腾T33",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾T77"
+    "name": "奔腾T77",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奔腾X80"
+    "name": "奔腾X80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝沃"
+    "name": "宝沃",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "宝沃"
+    "name": "宝沃",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "宝沃BX3"
+    "name": "宝沃BX3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝沃BX5"
+    "name": "宝沃BX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝沃BX6"
+    "name": "宝沃BX6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝沃BX7"
+    "name": "宝沃BX7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝沃BXi7"
+    "name": "宝沃BXi7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比亚迪"
+    "name": "比亚迪",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "比亚迪"
+    "name": "比亚迪",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "比亚迪F3"
+    "name": "比亚迪F3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "速锐"
+    "name": "速锐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比亚迪e1"
+    "name": "比亚迪e1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比亚迪e2"
+    "name": "比亚迪e2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比亚迪e5"
+    "name": "比亚迪e5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "秦"
+    "name": "秦",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "秦DM"
+    "name": "秦DM",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "秦EV"
+    "name": "秦EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "秦Pro"
+    "name": "秦Pro",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "秦Pro DM"
+    "name": "秦Pro DM",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "秦Pro EV"
+    "name": "秦Pro EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比亚迪S2"
+    "name": "比亚迪S2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "元"
+    "name": "元",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "元EV"
+    "name": "元EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋"
+    "name": "宋",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋DM"
+    "name": "宋DM",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋EV"
+    "name": "宋EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋Pro"
+    "name": "宋Pro",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋Pro DM"
+    "name": "宋Pro DM",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋Pro EV"
+    "name": "宋Pro EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋MAX"
+    "name": "宋MAX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋MAX DM"
+    "name": "宋MAX DM",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宋MAX EV"
+    "name": "宋MAX EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "唐"
+    "name": "唐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "唐DM"
+    "name": "唐DM",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "唐EV"
+    "name": "唐EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比亚迪e6"
+    "name": "比亚迪e6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比亚迪e-SEED GT"
+    "name": "比亚迪e-SEED GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宾利"
+    "name": "宾利",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "宾利"
+    "name": "宾利",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "欧陆"
+    "name": "欧陆",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "飞驰"
+    "name": "飞驰",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "慕尚"
+    "name": "慕尚",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "添越"
+    "name": "添越",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "添越PHEV"
+    "name": "添越PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北京"
+    "name": "北京",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北京汽车"
+    "name": "北京汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "北京BJ20"
+    "name": "北京BJ20",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北京BJ40"
+    "name": "北京BJ40",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北京BJ80"
+    "name": "北京BJ80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北京BJ90"
+    "name": "北京BJ90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北京汽车"
+    "name": "北京汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北京汽车"
+    "name": "北京汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "绅宝D50"
+    "name": "绅宝D50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "绅宝D70"
+    "name": "绅宝D70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "绅宝X25"
+    "name": "绅宝X25",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "绅宝X35"
+    "name": "绅宝X35",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "绅宝X55"
+    "name": "绅宝X55",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "绅宝X65"
+    "name": "绅宝X65",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "智道"
+    "name": "智道",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "智达X3"
+    "name": "智达X3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "智行"
+    "name": "智行",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽新能源"
+    "name": "北汽新能源",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北汽新能源"
+    "name": "北汽新能源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "EC系列"
+    "name": "EC系列",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "EC3"
+    "name": "EC3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "EC5"
+    "name": "EC5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "EU系列"
+    "name": "EU系列",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "EU5"
+    "name": "EU5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "EU7"
+    "name": "EU7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "EX360"
+    "name": "EX360",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "EX3"
+    "name": "EX3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "EX5"
+    "name": "EX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽制造"
+    "name": "北汽制造",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北京汽车"
+    "name": "北京汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "BJ 212"
+    "name": "BJ 212",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "战旗"
+    "name": "战旗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北京BW007"
+    "name": "北京BW007",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "勇士"
+    "name": "勇士",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "勇士皮卡"
+    "name": "勇士皮卡",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "锐铃"
+    "name": "锐铃",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽昌河"
+    "name": "北汽昌河",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北汽昌河"
+    "name": "北汽昌河",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "昌河北斗星"
+    "name": "昌河北斗星",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北斗星X5E"
+    "name": "北斗星X5E",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽昌河A6"
+    "name": "北汽昌河A6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽昌河Q25"
+    "name": "北汽昌河Q25",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽昌河Q35"
+    "name": "北汽昌河Q35",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽昌河Q7"
+    "name": "北汽昌河Q7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽昌河M50"
+    "name": "北汽昌河M50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽昌河M70"
+    "name": "北汽昌河M70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽幻速"
+    "name": "北汽幻速",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北汽幻速"
+    "name": "北汽幻速",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "幻速S2"
+    "name": "幻速S2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速S3"
+    "name": "幻速S3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速S3L"
+    "name": "幻速S3L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速S3X"
+    "name": "幻速S3X",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速S5"
+    "name": "幻速S5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速S6"
+    "name": "幻速S6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速S7"
+    "name": "幻速S7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速C60"
+    "name": "幻速C60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速H2"
+    "name": "幻速H2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速H2V"
+    "name": "幻速H2V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速H3"
+    "name": "幻速H3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速H3F"
+    "name": "幻速H3F",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速H5"
+    "name": "幻速H5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻速H6"
+    "name": "幻速H6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽威旺"
+    "name": "北汽威旺",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北京汽车"
+    "name": "北京汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "威旺S50"
+    "name": "威旺S50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威旺M20"
+    "name": "威旺M20",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威旺M30"
+    "name": "威旺M30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威旺M35"
+    "name": "威旺M35",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威旺M50F"
+    "name": "威旺M50F",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威旺M60"
+    "name": "威旺M60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威旺306"
+    "name": "威旺306",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威旺407EV"
+    "name": "威旺407EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北汽道达"
+    "name": "北汽道达",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北汽瑞丽"
+    "name": "北汽瑞丽",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "道达V8"
+    "name": "道达V8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北京清行"
+    "name": "北京清行",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北京清行"
+    "name": "北京清行",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "竞克400"
+    "name": "竞克400",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比速汽车"
+    "name": "比速汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "比速汽车"
+    "name": "比速汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "比速T3"
+    "name": "比速T3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比速T5"
+    "name": "比速T5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比速T7"
+    "name": "比速T7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "比速M3"
+    "name": "比速M3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "博郡汽车"
+    "name": "博郡汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "博郡汽车"
+    "name": "博郡汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "博郡iV6"
+    "name": "博郡iV6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "博郡iV7"
+    "name": "博郡iV7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "拜腾"
+    "name": "拜腾",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "拜腾汽车"
+    "name": "拜腾汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "K-Byte Concept"
+    "name": "K-Byte Concept",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "M-Byte Concept"
+    "name": "M-Byte Concept",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长城"
+    "name": "长城",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长城汽车"
+    "name": "长城汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "长城C30EV"
+    "name": "长城C30EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风骏5"
+    "name": "风骏5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风骏6"
+    "name": "风骏6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风骏7"
+    "name": "风骏7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "炮"
+    "name": "炮",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "炮EV"
+    "name": "炮EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安"
+    "name": "长安",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长安汽车"
+    "name": "长安汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奔奔"
+    "name": "奔奔",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "悦翔"
+    "name": "悦翔",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逸动XT"
+    "name": "逸动XT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逸动DT"
+    "name": "逸动DT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逸动"
+    "name": "逸动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿骋"
+    "name": "睿骋",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿骋CC"
+    "name": "睿骋CC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS15"
+    "name": "长安CS15",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS35"
+    "name": "长安CS35",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS35PLUS"
+    "name": "长安CS35PLUS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS55"
+    "name": "长安CS55",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS75"
+    "name": "长安CS75",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS75 PLUS"
+    "name": "长安CS75 PLUS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS85 COUPE"
+    "name": "长安CS85 COUPE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS95"
+    "name": "长安CS95",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凌轩"
+    "name": "凌轩",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安新能源"
+    "name": "长安新能源",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长安新能源"
+    "name": "长安新能源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奔奔EV"
+    "name": "奔奔EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逸动ET"
+    "name": "逸动ET",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逸动EV"
+    "name": "逸动EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逸动PHEV"
+    "name": "逸动PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS15EV"
+    "name": "长安CS15EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安CS75 PHEV"
+    "name": "长安CS75 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚"
+    "name": "长安欧尚",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长安欧尚"
+    "name": "长安欧尚",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "欧尚E01"
+    "name": "欧尚E01",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "尼欧II"
+    "name": "尼欧II",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚X70A"
+    "name": "长安欧尚X70A",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚CX70"
+    "name": "长安欧尚CX70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚X7"
+    "name": "长安欧尚X7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚科赛"
+    "name": "长安欧尚科赛",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚科尚"
+    "name": "长安欧尚科尚",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚A600"
+    "name": "长安欧尚A600",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚A600 EV"
+    "name": "长安欧尚A600 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安欧尚A800"
+    "name": "长安欧尚A800",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "欧尚长行"
+    "name": "欧尚长行",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "欧诺S"
+    "name": "欧诺S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安之星9"
+    "name": "长安之星9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安轻型车"
+    "name": "长安轻型车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长安轻型车"
+    "name": "长安轻型车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "睿行ES30"
+    "name": "睿行ES30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿行S50"
+    "name": "睿行S50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿行S50T"
+    "name": "睿行S50T",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿行M60"
+    "name": "睿行M60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿行M70"
+    "name": "睿行M70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿行M80"
+    "name": "睿行M80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿行EM80"
+    "name": "睿行EM80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "睿行M90"
+    "name": "睿行M90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "神骐F30"
+    "name": "神骐F30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯程F70"
+    "name": "凯程F70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "成功"
+    "name": "成功",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "航天成功"
+    "name": "航天成功",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "成功V1"
+    "name": "成功V1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "成功V2"
+    "name": "成功V2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "成功X1"
+    "name": "成功X1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "成功BEV6"
+    "name": "成功BEV6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长江EV"
+    "name": "长江EV",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长江EV"
+    "name": "长江EV",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "逸酷"
+    "name": "逸酷",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昶洧"
+    "name": "昶洧",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "昶洧"
+    "name": "昶洧",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "昶洧TP-488c"
+    "name": "昶洧TP-488c",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "刺猬汽车"
+    "name": "刺猬汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "刺猬汽车"
+    "name": "刺猬汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "思迈尔"
+    "name": "思迈尔",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "DS"
+    "name": "DS",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长安DS"
+    "name": "长安DS",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "DS 4S"
+    "name": "DS 4S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "DS 5LS"
+    "name": "DS 5LS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "DS 5"
+    "name": "DS 5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "DS 6"
+    "name": "DS 6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "DS 7"
+    "name": "DS 7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大众"
+    "name": "大众",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "一汽-大众"
+    "name": "一汽-大众",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "捷达"
+    "name": "捷达",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝来"
+    "name": "宝来",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宝来新能源"
+    "name": "宝来新能源",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "高尔夫"
+    "name": "高尔夫",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "高尔夫GTI"
+    "name": "高尔夫GTI",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "高尔夫新能源"
+    "name": "高尔夫新能源",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "高尔夫·嘉旅"
+    "name": "高尔夫·嘉旅",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "C-TREK蔚领"
+    "name": "C-TREK蔚领",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "速腾"
+    "name": "速腾",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈腾"
+    "name": "迈腾",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大众CC"
+    "name": "大众CC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "T-ROC探歌"
+    "name": "T-ROC探歌",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "探岳"
+    "name": "探岳",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "上汽大众"
+    "name": "上汽大众",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "POLO"
+    "name": "POLO",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "POLO GTI"
+    "name": "POLO GTI",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新桑塔纳"
+    "name": "新桑塔纳",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "桑塔纳·浩纳"
+    "name": "桑塔纳·浩纳",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "朗逸两厢"
+    "name": "朗逸两厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "朗逸"
+    "name": "朗逸",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "朗逸新能源"
+    "name": "朗逸新能源",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凌渡"
+    "name": "凌渡",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帕萨特"
+    "name": "帕萨特",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帕萨特PHEV"
+    "name": "帕萨特PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "辉昂"
+    "name": "辉昂",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大众T-Cross"
+    "name": "大众T-Cross",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途岳"
+    "name": "途岳",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途观"
+    "name": "途观",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途观L"
+    "name": "途观L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途观L PHEV"
+    "name": "途观L PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途昂"
+    "name": "途昂",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途昂X"
+    "name": "途昂X",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途安L"
+    "name": "途安L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口大众"
+    "name": "进口大众",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "甲壳虫"
+    "name": "甲壳虫",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大众e-Golf"
+    "name": "大众e-Golf",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "高尔夫旅行版"
+    "name": "高尔夫旅行版",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蔚揽"
+    "name": "蔚揽",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蔚揽GTE"
+    "name": "蔚揽GTE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大众Tiguan"
+    "name": "大众Tiguan",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途锐"
+    "name": "途锐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "夏朗"
+    "name": "夏朗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯路威"
+    "name": "凯路威",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈特威"
+    "name": "迈特威",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大众R"
+    "name": "大众R",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "高尔夫R"
+    "name": "高尔夫R",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "道奇"
+    "name": "道奇",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "进口道奇"
+    "name": "进口道奇",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "酷威"
+    "name": "酷威",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东南"
+    "name": "东南",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东南汽车"
+    "name": "东南汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "V3菱悦"
+    "name": "V3菱悦",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "V5菱致"
+    "name": "V5菱致",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "V6菱仕"
+    "name": "V6菱仕",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "A5翼舞"
+    "name": "A5翼舞",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东南DX3"
+    "name": "东南DX3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东南DX3 EV"
+    "name": "东南DX3 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东南DX7"
+    "name": "东南DX7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "电咖"
+    "name": "电咖",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "电咖"
+    "name": "电咖",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "电咖·EV10"
+    "name": "电咖·EV10",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风"
+    "name": "东风",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "郑州日产"
+    "name": "郑州日产",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "帅客"
+    "name": "帅客",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帅客EV"
+    "name": "帅客EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "俊风"
+    "name": "俊风",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "锐骐6"
+    "name": "锐骐6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "锐骐皮卡"
+    "name": "锐骐皮卡",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "锐骐多功能商用车"
+    "name": "锐骐多功能商用车",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风汽车"
+    "name": "东风汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "俊风ER30"
+    "name": "俊风ER30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "俊风E11K"
+    "name": "俊风E11K",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "俊风E17"
+    "name": "俊风E17",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "御风S16"
+    "name": "御风S16",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "御风"
+    "name": "御风",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "御风P16"
+    "name": "御风P16",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风启辰"
+    "name": "东风启辰",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风启辰"
+    "name": "东风启辰",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "启辰e30"
+    "name": "启辰e30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启辰D60"
+    "name": "启辰D60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启辰D60EV"
+    "name": "启辰D60EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启辰T60"
+    "name": "启辰T60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启辰T60EV"
+    "name": "启辰T60EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启辰T70"
+    "name": "启辰T70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启辰T90"
+    "name": "启辰T90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启辰M50V"
+    "name": "启辰M50V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风风神"
+    "name": "东风风神",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风乘用车"
+    "name": "东风乘用车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "风神EX1"
+    "name": "风神EX1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神A30"
+    "name": "风神A30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神A60"
+    "name": "风神A60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奕炫"
+    "name": "奕炫",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神E70"
+    "name": "风神E70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神L60"
+    "name": "风神L60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风A9"
+    "name": "东风A9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神AX3"
+    "name": "风神AX3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神AX4"
+    "name": "风神AX4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神AX5"
+    "name": "风神AX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神AX7"
+    "name": "风神AX7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神AX7 PHEV"
+    "name": "风神AX7 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风神AX7 FCV"
+    "name": "风神AX7 FCV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风风行"
+    "name": "东风风行",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "风行汽车"
+    "name": "风行汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "景逸S50"
+    "name": "景逸S50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行S50 EV"
+    "name": "风行S50 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "景逸X3"
+    "name": "景逸X3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "景逸X5"
+    "name": "景逸X5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "景逸X6"
+    "name": "景逸X6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行SX6"
+    "name": "风行SX6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行T5"
+    "name": "风行T5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行T5L"
+    "name": "风行T5L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行S500"
+    "name": "风行S500",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行F600"
+    "name": "风行F600",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "菱智V3"
+    "name": "菱智V3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "菱智M3"
+    "name": "菱智M3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "菱智M5"
+    "name": "菱智M5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "菱智M5 EV"
+    "name": "菱智M5 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行M6"
+    "name": "风行M6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行M7"
+    "name": "风行M7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风行CM7"
+    "name": "风行CM7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风风度"
+    "name": "东风风度",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "郑州日产"
+    "name": "郑州日产",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "风度MX5"
+    "name": "风度MX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风度MX6"
+    "name": "风度MX6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风风光"
+    "name": "东风风光",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风小康"
+    "name": "东风小康",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "风光E3"
+    "name": "风光E3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风光ix5"
+    "name": "风光ix5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风光S560"
+    "name": "风光S560",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风光580"
+    "name": "风光580",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风光580 PHEV"
+    "name": "风光580 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风光330"
+    "name": "风光330",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风光370"
+    "name": "风光370",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风小康"
+    "name": "东风小康",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风小康"
+    "name": "东风小康",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "小康C36"
+    "name": "小康C36",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "小康EC36"
+    "name": "小康EC36",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "小康C37"
+    "name": "小康C37",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "小康K05S"
+    "name": "小康K05S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "小康K07S"
+    "name": "小康K07S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "东风富康"
+    "name": "东风富康",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风富康"
+    "name": "东风富康",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "富康ES500"
+    "name": "富康ES500",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大乘汽车"
+    "name": "大乘汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "大乘汽车"
+    "name": "大乘汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "大乘E20"
+    "name": "大乘E20",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大乘G60"
+    "name": "大乘G60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大乘G60E"
+    "name": "大乘G60E",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大乘G60s"
+    "name": "大乘G60s",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大乘G70s"
+    "name": "大乘G70s",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "丰田"
+    "name": "丰田",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽丰田"
+    "name": "广汽丰田",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "YARiS L 致炫"
+    "name": "YARiS L 致炫",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "YARiS L 致享"
+    "name": "YARiS L 致享",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷凌"
+    "name": "雷凌",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷凌双擎E+"
+    "name": "雷凌双擎E+",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯美瑞"
+    "name": "凯美瑞",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "丰田C-HR"
+    "name": "丰田C-HR",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "丰田C-HR EV"
+    "name": "丰田C-HR EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "汉兰达"
+    "name": "汉兰达",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "一汽丰田"
+    "name": "一汽丰田",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "威驰"
+    "name": "威驰",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威驰FS"
+    "name": "威驰FS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "卡罗拉"
+    "name": "卡罗拉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "卡罗拉双擎"
+    "name": "卡罗拉双擎",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "卡罗拉双擎E+"
+    "name": "卡罗拉双擎E+",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "皇冠"
+    "name": "皇冠",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "亚洲龙"
+    "name": "亚洲龙",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奕泽 IZOA"
+    "name": "奕泽 IZOA",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奕泽 IZOA EV"
+    "name": "奕泽 IZOA EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "RAV4荣放"
+    "name": "RAV4荣放",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "普拉多"
+    "name": "普拉多",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口丰田"
+    "name": "进口丰田",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "丰田86"
+    "name": "丰田86",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "普瑞维亚"
+    "name": "普瑞维亚",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威尔法"
+    "name": "威尔法",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "埃尔法"
+    "name": "埃尔法",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福特"
+    "name": "福特",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长安福特"
+    "name": "长安福特",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "福睿斯"
+    "name": "福睿斯",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福克斯两厢"
+    "name": "福克斯两厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福克斯三厢"
+    "name": "福克斯三厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蒙迪欧"
+    "name": "蒙迪欧",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蒙迪欧插电混动版"
+    "name": "蒙迪欧插电混动版",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "金牛座"
+    "name": "金牛座",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "翼搏"
+    "name": "翼搏",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "翼虎"
+    "name": "翼虎",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "ESCAPE"
+    "name": "ESCAPE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "锐界"
+    "name": "锐界",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江铃福特"
+    "name": "江铃福特",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "领界"
+    "name": "领界",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领界EV"
+    "name": "领界EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "撼路者"
+    "name": "撼路者",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途睿欧"
+    "name": "途睿欧",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新全顺"
+    "name": "新全顺",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新世代全顺"
+    "name": "新世代全顺",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口福特"
+    "name": "进口福特",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "福克斯ST"
+    "name": "福克斯ST",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福克斯RS"
+    "name": "福克斯RS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Mustang"
+    "name": "Mustang",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福特GT"
+    "name": "福特GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "探险者"
+    "name": "探险者",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福特Ranger"
+    "name": "福特Ranger",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福特F-150"
+    "name": "福特F-150",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "菲亚特"
+    "name": "菲亚特",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽菲亚特"
+    "name": "广汽菲亚特",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "菲翔"
+    "name": "菲翔",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "致悦"
+    "name": "致悦",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "法拉利"
+    "name": "法拉利",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "法拉利"
+    "name": "法拉利",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Portofino"
+    "name": "Portofino",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "California T"
+    "name": "California T",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "法拉利488"
+    "name": "法拉利488",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "GTC4Lusso"
+    "name": "GTC4Lusso",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "812 Superfast"
+    "name": "812 Superfast",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "SF90 Stradale"
+    "name": "SF90 Stradale",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "F8 Tributo"
+    "name": "F8 Tributo",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "F12 berlinetta"
+    "name": "F12 berlinetta",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福田"
+    "name": "福田",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "福田汽车"
+    "name": "福田汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "风景V3"
+    "name": "风景V3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风景V5"
+    "name": "风景V5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风景V5纯电动"
+    "name": "风景V5纯电动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风景"
+    "name": "风景",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风景G7"
+    "name": "风景G7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "风景G9"
+    "name": "风景G9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蒙派克"
+    "name": "蒙派克",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "图雅诺"
+    "name": "图雅诺",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "萨普"
+    "name": "萨普",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福田乘用车"
+    "name": "福田乘用车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "福田汽车"
+    "name": "福田汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "迦途GT"
+    "name": "迦途GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "萨瓦纳"
+    "name": "萨瓦纳",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "伽途ix5"
+    "name": "伽途ix5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "伽途ix7"
+    "name": "伽途ix7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "伽途im6"
+    "name": "伽途im6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "伽途im8"
+    "name": "伽途im8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "拓陆者"
+    "name": "拓陆者",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福迪"
+    "name": "福迪",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "福迪汽车"
+    "name": "福迪汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "揽福"
+    "name": "揽福",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雄狮F16"
+    "name": "雄狮F16",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雄狮F22"
+    "name": "雄狮F22",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福汽启腾"
+    "name": "福汽启腾",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "新龙马"
+    "name": "新龙马",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "启腾V60"
+    "name": "启腾V60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启腾EX80"
+    "name": "启腾EX80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启腾M70"
+    "name": "启腾M70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启腾M70EV"
+    "name": "启腾M70EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "法拉第未来"
+    "name": "法拉第未来",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "法拉第未来"
+    "name": "法拉第未来",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "FF91"
+    "name": "FF91",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "观致"
+    "name": "观致",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "观致汽车"
+    "name": "观致汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "观致3轿车"
+    "name": "观致3轿车",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "观致3 EV"
+    "name": "观致3 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "观致3五门版"
+    "name": "观致3五门版",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "观致3都市SUV"
+    "name": "观致3都市SUV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "观致5 SUV"
+    "name": "观致5 SUV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Model Young"
+    "name": "Model Young",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "广汽传祺"
+    "name": "广汽传祺",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽乘用车"
+    "name": "广汽乘用车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "传祺GA4"
+    "name": "传祺GA4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GA6"
+    "name": "传祺GA6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GA8"
+    "name": "传祺GA8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GS3"
+    "name": "传祺GS3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GS4"
+    "name": "传祺GS4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GS5"
+    "name": "传祺GS5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GS7"
+    "name": "传祺GS7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GS8"
+    "name": "传祺GS8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GM6"
+    "name": "传祺GM6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GM8"
+    "name": "传祺GM8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "广汽新能源"
+    "name": "广汽新能源",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽新能源"
+    "name": "广汽新能源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "传祺Aion S"
+    "name": "传祺Aion S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GE3"
+    "name": "传祺GE3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GA3S PHEV"
+    "name": "传祺GA3S PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "传祺GS4 PHEV"
+    "name": "传祺GS4 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "广汽集团"
+    "name": "广汽集团",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽丰田"
+    "name": "广汽丰田",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "广汽丰田ix4"
+    "name": "广汽丰田ix4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "广汽本田"
+    "name": "广汽本田",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "世锐PHEV"
+    "name": "世锐PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "国金汽车"
+    "name": "国金汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "国金汽车"
+    "name": "国金汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "国金GM3"
+    "name": "国金GM3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "国机智骏"
+    "name": "国机智骏",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "国机智骏"
+    "name": "国机智骏",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "GC1"
+    "name": "GC1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "GC2"
+    "name": "GC2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "GX5"
+    "name": "GX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "GMC"
+    "name": "GMC",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "GMC"
+    "name": "GMC",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "YUKON"
+    "name": "YUKON",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "SAVANA"
+    "name": "SAVANA",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "SIERRA"
+    "name": "SIERRA",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗"
+    "name": "哈弗",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长城汽车"
+    "name": "长城汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "哈弗H1"
+    "name": "哈弗H1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H2"
+    "name": "哈弗H2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H2S"
+    "name": "哈弗H2S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H4"
+    "name": "哈弗H4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H5"
+    "name": "哈弗H5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗M6"
+    "name": "哈弗M6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H6"
+    "name": "哈弗H6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H6 Coupe"
+    "name": "哈弗H6 Coupe",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H7"
+    "name": "哈弗H7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H8"
+    "name": "哈弗H8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗H9"
+    "name": "哈弗H9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗F5"
+    "name": "哈弗F5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗F7"
+    "name": "哈弗F7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哈弗F7x"
+    "name": "哈弗F7x",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马"
+    "name": "海马",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "海马汽车"
+    "name": "海马汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "海马M3"
+    "name": "海马M3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马M6"
+    "name": "海马M6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马S5"
+    "name": "海马S5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马S5青春版"
+    "name": "海马S5青春版",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马8S"
+    "name": "海马8S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马新能源"
+    "name": "海马新能源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "爱尚EV"
+    "name": "爱尚EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马E3"
+    "name": "海马E3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "一汽海马"
+    "name": "一汽海马",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "福美来轿车"
+    "name": "福美来轿车",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福美来F5"
+    "name": "福美来F5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马M8"
+    "name": "海马M8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福美来F7"
+    "name": "福美来F7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海马S7"
+    "name": "海马S7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "红旗"
+    "name": "红旗",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "一汽红旗"
+    "name": "一汽红旗",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "红旗H5"
+    "name": "红旗H5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "红旗H7"
+    "name": "红旗H7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "红旗H7 PHEV"
+    "name": "红旗H7 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "红旗L5"
+    "name": "红旗L5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "红旗E-HS3"
+    "name": "红旗E-HS3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "红旗HS5"
+    "name": "红旗HS5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "红旗HS7"
+    "name": "红旗HS7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "华泰"
+    "name": "华泰",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华泰汽车"
+    "name": "华泰汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "路盛S5"
+    "name": "路盛S5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "圣达菲5"
+    "name": "圣达菲5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "圣达菲7"
+    "name": "圣达菲7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "华泰新能源"
+    "name": "华泰新能源",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华泰汽车"
+    "name": "华泰汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "路盛S1 iEV360"
+    "name": "路盛S1 iEV360",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "路盛S1 EV160B"
+    "name": "路盛S1 EV160B",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "路盛S1 EV160R"
+    "name": "路盛S1 EV160R",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "路盛S5 EV"
+    "name": "路盛S5 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "圣达菲2 EV"
+    "name": "圣达菲2 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "圣达菲5 EV"
+    "name": "圣达菲5 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "圣达菲7 EV"
+    "name": "圣达菲7 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "华颂"
+    "name": "华颂",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华颂"
+    "name": "华颂",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "华颂7"
+    "name": "华颂7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "汉腾汽车"
+    "name": "汉腾汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "汉腾汽车"
+    "name": "汉腾汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "幸福e+"
+    "name": "幸福e+",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "汉腾X5"
+    "name": "汉腾X5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "汉腾X5 EV"
+    "name": "汉腾X5 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "汉腾X7"
+    "name": "汉腾X7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "汉腾X7 PHEV"
+    "name": "汉腾X7 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "汉腾X8"
+    "name": "汉腾X8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "汉腾V7"
+    "name": "汉腾V7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "红星汽车"
+    "name": "红星汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "红星汽车"
+    "name": "红星汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "闪闪X2"
+    "name": "闪闪X2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "黄海"
+    "name": "黄海",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "黄海汽车"
+    "name": "黄海汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "黄海N1"
+    "name": "黄海N1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "黄海N1S"
+    "name": "黄海N1S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "黄海N2"
+    "name": "黄海N2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "黄海N3"
+    "name": "黄海N3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "黄海N7北美版"
+    "name": "黄海N7北美版",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大柴神至尊版"
+    "name": "大柴神至尊版",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "恒天"
+    "name": "恒天",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "恒天"
+    "name": "恒天",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "途腾T1"
+    "name": "途腾T1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途腾T2"
+    "name": "途腾T2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途腾T3"
+    "name": "途腾T3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海格"
+    "name": "海格",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "苏州金龙"
+    "name": "苏州金龙",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "海格H5V"
+    "name": "海格H5V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "海格H5C"
+    "name": "海格H5C",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "华骐"
+    "name": "华骐",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风悦达起亚"
+    "name": "东风悦达起亚",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "华骐300E"
+    "name": "华骐300E",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "合创"
+    "name": "合创",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽蔚来"
+    "name": "广汽蔚来",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "合创概念车"
+    "name": "合创概念车",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "合众新能源"
+    "name": "合众新能源",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "合众新能源"
+    "name": "合众新能源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "合众E-TAKE"
+    "name": "合众E-TAKE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "合众U"
+    "name": "合众U",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Jeep"
+    "name": "Jeep",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽菲克"
+    "name": "广汽菲克",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "自由侠"
+    "name": "自由侠",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "指南者"
+    "name": "指南者",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "自由光"
+    "name": "自由光",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "指挥官"
+    "name": "指挥官",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大指挥官"
+    "name": "大指挥官",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大指挥官PHEV"
+    "name": "大指挥官PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口Jeep"
+    "name": "进口Jeep",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "牧马人"
+    "name": "牧马人",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大切诺基"
+    "name": "大切诺基",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "吉利"
+    "name": "吉利",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "吉利汽车"
+    "name": "吉利汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "金刚"
+    "name": "金刚",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "远景"
+    "name": "远景",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帝豪"
+    "name": "帝豪",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帝豪EV"
+    "name": "帝豪EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帝豪PHEV"
+    "name": "帝豪PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帝豪GL"
+    "name": "帝豪GL",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帝豪GL PHEV"
+    "name": "帝豪GL PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "缤瑞"
+    "name": "缤瑞",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "博瑞"
+    "name": "博瑞",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "博瑞GE"
+    "name": "博瑞GE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "博瑞GE PHEV"
+    "name": "博瑞GE PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "远景X1"
+    "name": "远景X1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "远景X3"
+    "name": "远景X3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "远景S1"
+    "name": "远景S1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "远景SUV"
+    "name": "远景SUV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帝豪GS"
+    "name": "帝豪GS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帝豪GSe"
+    "name": "帝豪GSe",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "缤越"
+    "name": "缤越",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "缤越PHEV"
+    "name": "缤越PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "博越"
+    "name": "博越",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "星越"
+    "name": "星越",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "星越PHEV"
+    "name": "星越PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "嘉际"
+    "name": "嘉际",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "嘉际PHEV"
+    "name": "嘉际PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "几何"
+    "name": "几何",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "几何汽车"
+    "name": "几何汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "几何A"
+    "name": "几何A",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷豹"
+    "name": "捷豹",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "奇瑞捷豹"
+    "name": "奇瑞捷豹",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "捷豹XEL"
+    "name": "捷豹XEL",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷豹XFL"
+    "name": "捷豹XFL",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷豹E-PACE"
+    "name": "捷豹E-PACE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口捷豹"
+    "name": "进口捷豹",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "捷豹XE"
+    "name": "捷豹XE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷豹XF Sportbrake"
+    "name": "捷豹XF Sportbrake",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷豹XJ"
+    "name": "捷豹XJ",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷豹F-PACE"
+    "name": "捷豹F-PACE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷豹I-PACE"
+    "name": "捷豹I-PACE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷豹F-TYPE"
+    "name": "捷豹F-TYPE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷达"
+    "name": "捷达",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "一汽-大众"
+    "name": "一汽-大众",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "捷达VA3"
+    "name": "捷达VA3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷达VS5"
+    "name": "捷达VS5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷达VS7"
+    "name": "捷达VS7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷途"
+    "name": "捷途",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "奇瑞汽车"
+    "name": "奇瑞汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "捷途X70"
+    "name": "捷途X70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷途X70S"
+    "name": "捷途X70S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷途X70S EV"
+    "name": "捷途X70S EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷途X90"
+    "name": "捷途X90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷途X95"
+    "name": "捷途X95",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江淮"
+    "name": "江淮",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "江淮汽车"
+    "name": "江淮汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "江淮iEV6E"
+    "name": "江淮iEV6E",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江淮iEV7L"
+    "name": "江淮iEV7L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江淮iEVA50"
+    "name": "江淮iEVA50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江淮iEVA60"
+    "name": "江淮iEVA60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江淮IEV7S"
+    "name": "江淮IEV7S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江淮iEVS4"
+    "name": "江淮iEVS4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风A60"
+    "name": "瑞风A60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风S2"
+    "name": "瑞风S2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风S3"
+    "name": "瑞风S3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风S4"
+    "name": "瑞风S4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风S5"
+    "name": "瑞风S5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风S7"
+    "name": "瑞风S7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风R3"
+    "name": "瑞风R3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风M3"
+    "name": "瑞风M3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风M4"
+    "name": "瑞风M4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风M5"
+    "name": "瑞风M5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞风M6"
+    "name": "瑞风M6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "星锐"
+    "name": "星锐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江淮V7"
+    "name": "江淮V7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帅铃T6"
+    "name": "帅铃T6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "帅铃T8"
+    "name": "帅铃T8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奇点"
+    "name": "奇点",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "奇点汽车"
+    "name": "奇点汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奇点iC3"
+    "name": "奇点iC3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奇点iS6"
+    "name": "奇点iS6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "金杯"
+    "name": "金杯",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华晨华瑞"
+    "name": "华晨华瑞",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "智尚S35"
+    "name": "智尚S35",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "金杯S70"
+    "name": "金杯S70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "金典"
+    "name": "金典",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大力神K5"
+    "name": "大力神K5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "华晨鑫源"
+    "name": "华晨鑫源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "金杯750"
+    "name": "金杯750",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "小海狮"
+    "name": "小海狮",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新海狮"
+    "name": "新海狮",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新海狮S"
+    "name": "新海狮S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "华晨雷诺"
+    "name": "华晨雷诺",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "观境"
+    "name": "观境",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领坤EV"
+    "name": "领坤EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "金杯F50"
+    "name": "金杯F50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "第五代海狮"
+    "name": "第五代海狮",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新海狮"
+    "name": "新海狮",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大海狮"
+    "name": "大海狮",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "阁瑞斯"
+    "name": "阁瑞斯",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "君马"
+    "name": "君马",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "君马汽车"
+    "name": "君马汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "君马S70"
+    "name": "君马S70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "君马MEET 3"
+    "name": "君马MEET 3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "君马SEEK 5"
+    "name": "君马SEEK 5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江铃"
+    "name": "江铃",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "江铃汽车"
+    "name": "江铃汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "宝典"
+    "name": "宝典",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "域虎3"
+    "name": "域虎3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "域虎5"
+    "name": "域虎5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "域虎7"
+    "name": "域虎7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "域虎9"
+    "name": "域虎9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "域虎EV"
+    "name": "域虎EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "特顺"
+    "name": "特顺",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江铃集团轻汽"
+    "name": "江铃集团轻汽",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "江铃集团轻汽"
+    "name": "江铃集团轻汽",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "骐铃T100"
+    "name": "骐铃T100",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骐铃T5"
+    "name": "骐铃T5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骐铃T7"
+    "name": "骐铃T7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骐铃T15"
+    "name": "骐铃T15",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江铃集团新能源"
+    "name": "江铃集团新能源",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "江铃集团新能源"
+    "name": "江铃集团新能源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "江铃E100B"
+    "name": "江铃E100B",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江铃E160L"
+    "name": "江铃E160L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江铃E200L"
+    "name": "江铃E200L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江铃E200N"
+    "name": "江铃E200N",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "易至EV3"
+    "name": "易至EV3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "江铃E400"
+    "name": "江铃E400",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "九龙"
+    "name": "九龙",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "九龙汽车"
+    "name": "九龙汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "艾菲"
+    "name": "艾菲",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "九龙A4"
+    "name": "九龙A4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "九龙A5"
+    "name": "九龙A5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "九龙A5S"
+    "name": "九龙A5S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "九龙A6"
+    "name": "九龙A6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "金龙"
+    "name": "金龙",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "金龙客车"
+    "name": "金龙客车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "金威"
+    "name": "金威",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯锐浩克"
+    "name": "凯锐浩克",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯歌"
+    "name": "凯歌",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯特"
+    "name": "凯特",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Karma"
+    "name": "Karma",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "Karma"
+    "name": "Karma",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Revero"
+    "name": "Revero",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Revero GT"
+    "name": "Revero GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯迪拉克"
+    "name": "凯迪拉克",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽通用凯迪拉克"
+    "name": "上汽通用凯迪拉克",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "凯迪拉克ATS-L"
+    "name": "凯迪拉克ATS-L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯迪拉克XTS"
+    "name": "凯迪拉克XTS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯迪拉克CT6"
+    "name": "凯迪拉克CT6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯迪拉克XT4"
+    "name": "凯迪拉克XT4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯迪拉克XT5"
+    "name": "凯迪拉克XT5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯迪拉克XT6"
+    "name": "凯迪拉克XT6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口凯迪拉克"
+    "name": "进口凯迪拉克",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "凯雷德"
+    "name": "凯雷德",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "克莱斯勒"
+    "name": "克莱斯勒",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "进口克莱斯勒"
+    "name": "进口克莱斯勒",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "300C"
+    "name": "300C",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大捷龙"
+    "name": "大捷龙",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大捷龙PHEV"
+    "name": "大捷龙PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯翼"
+    "name": "凯翼",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "凯翼"
+    "name": "凯翼",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "凯翼C3"
+    "name": "凯翼C3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯翼C3R"
+    "name": "凯翼C3R",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯翼E3"
+    "name": "凯翼E3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯翼X3"
+    "name": "凯翼X3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯翼V3"
+    "name": "凯翼V3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯翼X5"
+    "name": "凯翼X5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "开瑞"
+    "name": "开瑞",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "开瑞汽车"
+    "name": "开瑞汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "开瑞K50"
+    "name": "开瑞K50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "开瑞K50S"
+    "name": "开瑞K50S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "开瑞K50EV"
+    "name": "开瑞K50EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "开瑞K60"
+    "name": "开瑞K60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "开瑞K60EV"
+    "name": "开瑞K60EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "优优EV"
+    "name": "优优EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "卡威"
+    "name": "卡威",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "卡威汽车"
+    "name": "卡威汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "悍马纯电动"
+    "name": "悍马纯电动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "路易斯"
+    "name": "路易斯",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "卡威K1"
+    "name": "卡威K1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "卡威K150GT"
+    "name": "卡威K150GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "LITE"
+    "name": "LITE",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北汽新能源"
+    "name": "北汽新能源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "LITE"
+    "name": "LITE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "铃木"
+    "name": "铃木",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长安铃木"
+    "name": "长安铃木",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奥拓"
+    "name": "奥拓",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雨燕"
+    "name": "雨燕",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "天语 SX4"
+    "name": "天语 SX4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "启悦"
+    "name": "启悦",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骁途"
+    "name": "骁途",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "维特拉"
+    "name": "维特拉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昌河铃木"
+    "name": "昌河铃木",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "北斗星"
+    "name": "北斗星",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "北斗星X5"
+    "name": "北斗星X5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口铃木"
+    "name": "进口铃木",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "英格尼斯"
+    "name": "英格尼斯",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "吉姆尼"
+    "name": "吉姆尼",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "超级维特拉"
+    "name": "超级维特拉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "路虎"
+    "name": "路虎",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "奇瑞路虎"
+    "name": "奇瑞路虎",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "发现神行"
+    "name": "发现神行",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "揽胜极光"
+    "name": "揽胜极光",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口路虎"
+    "name": "进口路虎",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "揽胜极光"
+    "name": "揽胜极光",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "揽胜星脉"
+    "name": "揽胜星脉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "发现"
+    "name": "发现",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "揽胜运动版"
+    "name": "揽胜运动版",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "揽胜运动版P400e"
+    "name": "揽胜运动版P400e",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "揽胜"
+    "name": "揽胜",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "揽胜P400e"
+    "name": "揽胜P400e",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷诺"
+    "name": "雷诺",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风雷诺"
+    "name": "东风雷诺",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "科雷嘉"
+    "name": "科雷嘉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "科雷傲"
+    "name": "科雷傲",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷诺e诺"
+    "name": "雷诺e诺",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口雷诺"
+    "name": "进口雷诺",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "风朗"
+    "name": "风朗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "卡缤"
+    "name": "卡缤",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Espace"
+    "name": "Espace",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "达斯特"
+    "name": "达斯特",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "陆风"
+    "name": "陆风",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "陆风汽车"
+    "name": "陆风汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "陆风X2"
+    "name": "陆风X2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逍遥"
+    "name": "逍遥",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "陆风荣曜"
+    "name": "陆风荣曜",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "陆风X5"
+    "name": "陆风X5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "陆风X7"
+    "name": "陆风X7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "陆风X8"
+    "name": "陆风X8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "林肯"
+    "name": "林肯",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "林肯"
+    "name": "林肯",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "MKZ"
+    "name": "MKZ",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大陆"
+    "name": "大陆",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MKC"
+    "name": "MKC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "航海家"
+    "name": "航海家",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MKX"
+    "name": "MKX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领航员"
+    "name": "领航员",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "飞行家"
+    "name": "飞行家",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "飞行家PHEV"
+    "name": "飞行家PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领克"
+    "name": "领克",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "领克汽车"
+    "name": "领克汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "领克01"
+    "name": "领克01",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领克01 PHEV"
+    "name": "领克01 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领克02"
+    "name": "领克02",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领克02 PHEV"
+    "name": "领克02 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领克03"
+    "name": "领克03",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领克03 PHEV"
+    "name": "领克03 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "力帆"
+    "name": "力帆",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "重庆力帆"
+    "name": "重庆力帆",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "力帆650"
+    "name": "力帆650",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "力帆650EV"
+    "name": "力帆650EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "力帆820"
+    "name": "力帆820",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "力帆820EV"
+    "name": "力帆820EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "力帆X50"
+    "name": "力帆X50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "力帆X60"
+    "name": "力帆X60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "力帆X80"
+    "name": "力帆X80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈威"
+    "name": "迈威",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈威EV"
+    "name": "迈威EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "乐途"
+    "name": "乐途",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "轩朗"
+    "name": "轩朗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "理念"
+    "name": "理念",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "理念汽车"
+    "name": "理念汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "理念VE-1"
+    "name": "理念VE-1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "理想汽车"
+    "name": "理想汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "理想汽车"
+    "name": "理想汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "理想ONE"
+    "name": "理想ONE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "猎豹汽车"
+    "name": "猎豹汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "猎豹汽车"
+    "name": "猎豹汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "猎豹CS9"
+    "name": "猎豹CS9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "猎豹CS9 EV"
+    "name": "猎豹CS9 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "猎豹CS10"
+    "name": "猎豹CS10",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "猎豹Coupe"
+    "name": "猎豹Coupe",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Mattu"
+    "name": "Mattu",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "黑金刚"
+    "name": "黑金刚",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "猎豹Q6"
+    "name": "猎豹Q6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "猎豹CT7"
+    "name": "猎豹CT7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "缤歌"
+    "name": "缤歌",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯"
+    "name": "雷克萨斯",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "雷克萨斯"
+    "name": "雷克萨斯",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "雷克萨斯CT"
+    "name": "雷克萨斯CT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯IS"
+    "name": "雷克萨斯IS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯ES"
+    "name": "雷克萨斯ES",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯GS"
+    "name": "雷克萨斯GS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯LS"
+    "name": "雷克萨斯LS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯RC"
+    "name": "雷克萨斯RC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯LC"
+    "name": "雷克萨斯LC",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯UX"
+    "name": "雷克萨斯UX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯NX"
+    "name": "雷克萨斯NX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯RX"
+    "name": "雷克萨斯RX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯LX"
+    "name": "雷克萨斯LX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷克萨斯LM"
+    "name": "雷克萨斯LM",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "劳斯莱斯"
+    "name": "劳斯莱斯",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "劳斯莱斯"
+    "name": "劳斯莱斯",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "古思特"
+    "name": "古思特",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "幻影"
+    "name": "幻影",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "魅影"
+    "name": "魅影",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "曜影"
+    "name": "曜影",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "库里南"
+    "name": "库里南",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "兰博基尼"
+    "name": "兰博基尼",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "兰博基尼"
+    "name": "兰博基尼",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Urus"
+    "name": "Urus",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Huracan"
+    "name": "Huracan",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Aventador"
+    "name": "Aventador",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Centenario"
+    "name": "Centenario",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "路特斯"
+    "name": "路特斯",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "路特斯"
+    "name": "路特斯",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Elise"
+    "name": "Elise",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Exige"
+    "name": "Exige",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Evora"
+    "name": "Evora",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "零跑汽车"
+    "name": "零跑汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "零跑汽车"
+    "name": "零跑汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "零跑S01"
+    "name": "零跑S01",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "零跑C-more"
+    "name": "零跑C-more",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领途汽车"
+    "name": "领途汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "领途汽车"
+    "name": "领途汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "领途E行"
+    "name": "领途E行",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领途K-ONE"
+    "name": "领途K-ONE",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "陆地方舟"
+    "name": "陆地方舟",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "陆地方舟"
+    "name": "陆地方舟",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "威途X35"
+    "name": "威途X35",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "名爵"
+    "name": "名爵",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽集团"
+    "name": "上汽集团",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "名爵3"
+    "name": "名爵3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "锐行"
+    "name": "锐行",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "名爵6"
+    "name": "名爵6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "名爵6新能源"
+    "name": "名爵6新能源",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "名爵6 XPOWER TCR赛车"
+    "name": "名爵6 XPOWER TCR赛车",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "名爵ZS"
+    "name": "名爵ZS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "名爵EZS"
+    "name": "名爵EZS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "锐腾"
+    "name": "锐腾",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "名爵HS"
+    "name": "名爵HS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MINI"
+    "name": "MINI",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "MINI"
+    "name": "MINI",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "MINI 3-DOOR"
+    "name": "MINI 3-DOOR",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MINI 5-DOOR"
+    "name": "MINI 5-DOOR",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MINI CABRIO"
+    "name": "MINI CABRIO",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MINI CLUBMAN"
+    "name": "MINI CLUBMAN",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MINI COUNTRYMAN"
+    "name": "MINI COUNTRYMAN",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MINI JCW"
+    "name": "MINI JCW",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "MINI JCW"
+    "name": "MINI JCW",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MINI JCW CLUBMAN"
+    "name": "MINI JCW CLUBMAN",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "MINI JCW COUNTRYMAN"
+    "name": "MINI JCW COUNTRYMAN",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "马自达"
+    "name": "马自达",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "一汽马自达"
+    "name": "一汽马自达",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "阿特兹"
+    "name": "阿特兹",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "马自达CX-4"
+    "name": "马自达CX-4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "长安马自达"
+    "name": "长安马自达",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "昂克赛拉两厢"
+    "name": "昂克赛拉两厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昂克赛拉三厢"
+    "name": "昂克赛拉三厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "马自达CX-5"
+    "name": "马自达CX-5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "马自达CX-8"
+    "name": "马自达CX-8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口马自达"
+    "name": "进口马自达",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "马自达CX-3"
+    "name": "马自达CX-3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "马自达MX-5"
+    "name": "马自达MX-5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈凯伦"
+    "name": "迈凯伦",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "迈凯伦"
+    "name": "迈凯伦",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "迈凯伦540C"
+    "name": "迈凯伦540C",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈凯伦570S"
+    "name": "迈凯伦570S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈凯伦570GT"
+    "name": "迈凯伦570GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈凯伦600LT"
+    "name": "迈凯伦600LT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈凯伦720S"
+    "name": "迈凯伦720S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "塞纳"
+    "name": "塞纳",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "玛莎拉蒂"
+    "name": "玛莎拉蒂",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "玛莎拉蒂"
+    "name": "玛莎拉蒂",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Ghibli"
+    "name": "Ghibli",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "总裁"
+    "name": "总裁",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Levante"
+    "name": "Levante",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "GranTurismo"
+    "name": "GranTurismo",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "GranCabrio"
+    "name": "GranCabrio",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "摩根"
+    "name": "摩根",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "摩根"
+    "name": "摩根",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "3-Wheeler"
+    "name": "3-Wheeler",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "摩根4-4"
+    "name": "摩根4-4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "摩根Plus 4"
+    "name": "摩根Plus 4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "摩根Plus 8"
+    "name": "摩根Plus 8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "摩根Aero"
+    "name": "摩根Aero",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "摩根Aero 8"
+    "name": "摩根Aero 8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "摩根Roadster"
+    "name": "摩根Roadster",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "哪吒汽车"
+    "name": "哪吒汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "合众新能源"
+    "name": "合众新能源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "哪吒N01"
+    "name": "哪吒N01",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "纳智捷"
+    "name": "纳智捷",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风裕隆"
+    "name": "东风裕隆",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "锐3"
+    "name": "锐3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "纳5"
+    "name": "纳5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "U5 SUV"
+    "name": "U5 SUV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "U5 EV"
+    "name": "U5 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "优6 SUV"
+    "name": "优6 SUV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "纳智捷URX"
+    "name": "纳智捷URX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大7 MPV"
+    "name": "大7 MPV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "NEVS"
+    "name": "NEVS",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "国能汽车"
+    "name": "国能汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "NEVS 9-3"
+    "name": "NEVS 9-3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "NEVS 9-3X"
+    "name": "NEVS 9-3X",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "讴歌"
+    "name": "讴歌",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽讴歌"
+    "name": "广汽讴歌",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "讴歌TLX-L"
+    "name": "讴歌TLX-L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "讴歌CDX"
+    "name": "讴歌CDX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "讴歌RDX"
+    "name": "讴歌RDX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口讴歌"
+    "name": "进口讴歌",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "讴歌MDX"
+    "name": "讴歌MDX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "讴歌NSX"
+    "name": "讴歌NSX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "欧拉"
+    "name": "欧拉",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "欧拉"
+    "name": "欧拉",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "欧拉R1"
+    "name": "欧拉R1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "欧拉R2"
+    "name": "欧拉R2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "欧拉iQ"
+    "name": "欧拉iQ",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "欧联汽车"
+    "name": "欧联汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广马汽车"
+    "name": "广马汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "欧联M1"
+    "name": "欧联M1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Polestar极星"
+    "name": "Polestar极星",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "Polestar"
+    "name": "Polestar",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Polestar 1"
+    "name": "Polestar 1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Polestar 2"
+    "name": "Polestar 2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚"
+    "name": "起亚",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风悦达起亚"
+    "name": "东风悦达起亚",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "KX CROSS"
+    "name": "KX CROSS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "焕驰"
+    "name": "焕驰",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚K2"
+    "name": "起亚K2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "福瑞迪"
+    "name": "福瑞迪",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚K3"
+    "name": "起亚K3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚K3 PHEV"
+    "name": "起亚K3 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "凯绅"
+    "name": "凯绅",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚K4"
+    "name": "起亚K4",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚K5"
+    "name": "起亚K5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚K5 PHEV"
+    "name": "起亚K5 PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奕跑"
+    "name": "奕跑",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "智跑"
+    "name": "智跑",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚KX3"
+    "name": "起亚KX3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚KX3 EV"
+    "name": "起亚KX3 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚KX5"
+    "name": "起亚KX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "起亚KX7"
+    "name": "起亚KX7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口起亚"
+    "name": "进口起亚",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "起亚K9"
+    "name": "起亚K9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯汀格"
+    "name": "斯汀格",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "极睿"
+    "name": "极睿",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "索兰托L"
+    "name": "索兰托L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "霸锐"
+    "name": "霸锐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "佳乐"
+    "name": "佳乐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "嘉华"
+    "name": "嘉华",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奇瑞"
+    "name": "奇瑞",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "奇瑞"
+    "name": "奇瑞",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "奇瑞eQ1"
+    "name": "奇瑞eQ1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "艾瑞泽5"
+    "name": "艾瑞泽5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "艾瑞泽5e"
+    "name": "艾瑞泽5e",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "艾瑞泽GX"
+    "name": "艾瑞泽GX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "艾瑞泽7"
+    "name": "艾瑞泽7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞虎e"
+    "name": "瑞虎e",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞虎3X"
+    "name": "瑞虎3X",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞虎3xe"
+    "name": "瑞虎3xe",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞虎3"
+    "name": "瑞虎3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞虎5x"
+    "name": "瑞虎5x",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞虎5"
+    "name": "瑞虎5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞虎7"
+    "name": "瑞虎7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞虎8"
+    "name": "瑞虎8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "前途"
+    "name": "前途",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "前途汽车"
+    "name": "前途汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "前途K50"
+    "name": "前途K50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "前途K20"
+    "name": "前途K20",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "前途K25"
+    "name": "前途K25",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "全球鹰"
+    "name": "全球鹰",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "康迪全球鹰"
+    "name": "康迪全球鹰",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "全球鹰EX3"
+    "name": "全球鹰EX3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "全球鹰K12"
+    "name": "全球鹰K12",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "全球鹰K17"
+    "name": "全球鹰K17",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "全球鹰K27"
+    "name": "全球鹰K27",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "清源汽车"
+    "name": "清源汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "清源汽车"
+    "name": "清源汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "清源小尊"
+    "name": "清源小尊",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "清源尊者"
+    "name": "清源尊者",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "庆铃汽车"
+    "name": "庆铃汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "庆铃汽车"
+    "name": "庆铃汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "庆铃TAGA"
+    "name": "庆铃TAGA",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "乔治·巴顿"
+    "name": "乔治·巴顿",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "乔治·巴顿"
+    "name": "乔治·巴顿",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "战剑"
+    "name": "战剑",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "战车"
+    "name": "战车",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "日产"
+    "name": "日产",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风日产"
+    "name": "东风日产",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "玛驰"
+    "name": "玛驰",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骊威"
+    "name": "骊威",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "阳光"
+    "name": "阳光",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骐达"
+    "name": "骐达",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新蓝鸟"
+    "name": "新蓝鸟",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "轩逸"
+    "name": "轩逸",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "轩逸经典"
+    "name": "轩逸经典",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "轩逸·纯电"
+    "name": "轩逸·纯电",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "天籁"
+    "name": "天籁",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "西玛"
+    "name": "西玛",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "劲客"
+    "name": "劲客",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逍客"
+    "name": "逍客",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途达"
+    "name": "途达",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奇骏"
+    "name": "奇骏",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "楼兰"
+    "name": "楼兰",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "郑州日产"
+    "name": "郑州日产",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "途达"
+    "name": "途达",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "日产NV200"
+    "name": "日产NV200",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "纳瓦拉"
+    "name": "纳瓦拉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口日产"
+    "name": "进口日产",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "途乐"
+    "name": "途乐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "贵士"
+    "name": "贵士",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "日产370Z"
+    "name": "日产370Z",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "日产GT-R"
+    "name": "日产GT-R",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "碧莲"
+    "name": "碧莲",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威"
+    "name": "荣威",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽集团"
+    "name": "上汽集团",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "荣威360"
+    "name": "荣威360",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威i5"
+    "name": "荣威i5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威Ei5"
+    "name": "荣威Ei5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威i6"
+    "name": "荣威i6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威ei6"
+    "name": "荣威ei6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威950"
+    "name": "荣威950",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威e950"
+    "name": "荣威e950",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威RX3"
+    "name": "荣威RX3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威RX5"
+    "name": "荣威RX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威eRX5"
+    "name": "荣威eRX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威ERX5"
+    "name": "荣威ERX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威RX8"
+    "name": "荣威RX8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威MAX"
+    "name": "荣威MAX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣威MARVEL X"
+    "name": "荣威MARVEL X",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "瑞迈"
+    "name": "瑞迈",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "江西五十铃"
+    "name": "江西五十铃",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "瑞迈"
+    "name": "瑞迈",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "如虎"
+    "name": "如虎",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "如虎"
+    "name": "如虎",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "如虎RXL"
+    "name": "如虎RXL",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "如虎Rt 12 R"
+    "name": "如虎Rt 12 R",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "如虎CTR 3"
+    "name": "如虎CTR 3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "smart"
+    "name": "smart",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "smart"
+    "name": "smart",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "smart fortwo"
+    "name": "smart fortwo",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "smart forfour"
+    "name": "smart forfour",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "SERES"
+    "name": "SERES",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "金康SERES"
+    "name": "金康SERES",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "SF5"
+    "name": "SF5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "SF7"
+    "name": "SF7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "三菱"
+    "name": "三菱",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "进口三菱"
+    "name": "进口三菱",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "帕杰罗"
+    "name": "帕杰罗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "广汽三菱"
+    "name": "广汽三菱",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "劲炫"
+    "name": "劲炫",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "奕歌"
+    "name": "奕歌",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "欧蓝德"
+    "name": "欧蓝德",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "祺智EV"
+    "name": "祺智EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "祺智PHEV"
+    "name": "祺智PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "思铭"
+    "name": "思铭",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风本田"
+    "name": "东风本田",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "思铭X-NV"
+    "name": "思铭X-NV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯柯达"
+    "name": "斯柯达",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽斯柯达"
+    "name": "上汽斯柯达",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "晶锐"
+    "name": "晶锐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昕动"
+    "name": "昕动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昕锐"
+    "name": "昕锐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "明锐"
+    "name": "明锐",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "明锐旅行车"
+    "name": "明锐旅行车",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "速派"
+    "name": "速派",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "柯米克"
+    "name": "柯米克",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "柯珞克"
+    "name": "柯珞克",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "柯迪亚克"
+    "name": "柯迪亚克",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "柯迪亚克GT"
+    "name": "柯迪亚克GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯巴鲁"
+    "name": "斯巴鲁",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "进口斯巴鲁"
+    "name": "进口斯巴鲁",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "力狮"
+    "name": "力狮",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯巴鲁XV"
+    "name": "斯巴鲁XV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "森林人"
+    "name": "森林人",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "傲虎"
+    "name": "傲虎",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯巴鲁BRZ"
+    "name": "斯巴鲁BRZ",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯威汽车"
+    "name": "斯威汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华晨鑫源"
+    "name": "华晨鑫源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "斯威G01"
+    "name": "斯威G01",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯威G05"
+    "name": "斯威G05",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯威X2"
+    "name": "斯威X2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯威X3"
+    "name": "斯威X3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯威X7"
+    "name": "斯威X7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯威G01 EV"
+    "name": "斯威G01 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "思皓SOL"
+    "name": "思皓SOL",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "江淮大众"
+    "name": "江淮大众",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "SOL E20X"
+    "name": "SOL E20X",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "上汽大通"
+    "name": "上汽大通",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽大通"
+    "name": "上汽大通",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "大通D60"
+    "name": "大通D60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通D60e"
+    "name": "大通D60e",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通D90"
+    "name": "大通D90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通G50"
+    "name": "大通G50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通EG50"
+    "name": "大通EG50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通G10"
+    "name": "大通G10",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通EG10"
+    "name": "大通EG10",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通G20"
+    "name": "大通G20",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通V80"
+    "name": "大通V80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通FCV80"
+    "name": "大通FCV80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通V90"
+    "name": "大通V90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通T60"
+    "name": "大通T60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通T70"
+    "name": "大通T70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大通EV30"
+    "name": "大通EV30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "双龙"
+    "name": "双龙",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "双龙"
+    "name": "双龙",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "主席"
+    "name": "主席",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蒂维拉"
+    "name": "蒂维拉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "柯兰多"
+    "name": "柯兰多",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途凌"
+    "name": "途凌",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "爱腾"
+    "name": "爱腾",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷斯特"
+    "name": "雷斯特",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雷斯特W"
+    "name": "雷斯特W",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "路帝"
+    "name": "路帝",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯达泰克"
+    "name": "斯达泰克",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "斯达泰克"
+    "name": "斯达泰克",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "斯达泰克卫士"
+    "name": "斯达泰克卫士",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "赛麟"
+    "name": "赛麟",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "赛麟"
+    "name": "赛麟",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "赛麟S1"
+    "name": "赛麟S1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "赛麟"
+    "name": "赛麟",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "迈迈"
+    "name": "迈迈",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "陕西通家"
+    "name": "陕西通家",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": " 陕西通家"
+    "name": " 陕西通家",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "电牛二号"
+    "name": "电牛二号",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "腾势"
+    "name": "腾势",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "腾势"
+    "name": "腾势",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "腾势"
+    "name": "腾势",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "特斯拉"
+    "name": "特斯拉",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "特斯拉中国"
+    "name": "特斯拉中国",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Model 3"
+    "name": "Model 3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口特斯拉"
+    "name": "进口特斯拉",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Model 3"
+    "name": "Model 3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Model S"
+    "name": "Model S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Model X"
+    "name": "Model X",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "Model Y"
+    "name": "Model Y",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "泰克鲁斯·腾风"
+    "name": "泰克鲁斯·腾风",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "泰克鲁斯·腾风"
+    "name": "泰克鲁斯·腾风",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "GT96 TREV"
+    "name": "GT96 TREV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "天际汽车"
+    "name": "天际汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "天际汽车"
+    "name": "天际汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "天际ME7"
+    "name": "天际ME7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "天际ME-S"
+    "name": "天际ME-S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "WEY"
+    "name": "WEY",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "长城汽车"
+    "name": "长城汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "WEY VV5"
+    "name": "WEY VV5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "WEY VV6"
+    "name": "WEY VV6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "WEY VV7"
+    "name": "WEY VV7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "WEY P8"
+    "name": "WEY P8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "五菱"
+    "name": "五菱",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽通用五菱"
+    "name": "上汽通用五菱",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "宏光S3"
+    "name": "宏光S3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "宏光V"
+    "name": "宏光V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣光"
+    "name": "荣光",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "荣光V"
+    "name": "荣光V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "五菱之光"
+    "name": "五菱之光",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "五菱之光V"
+    "name": "五菱之光V",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃"
+    "name": "沃尔沃",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "沃尔沃亚太"
+    "name": "沃尔沃亚太",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "沃尔沃S60L"
+    "name": "沃尔沃S60L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃S60L E驱混动"
+    "name": "沃尔沃S60L E驱混动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃S90"
+    "name": "沃尔沃S90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃S90 E驱混动"
+    "name": "沃尔沃S90 E驱混动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃XC40"
+    "name": "沃尔沃XC40",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃XC60"
+    "name": "沃尔沃XC60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃XC60 E驱混动"
+    "name": "沃尔沃XC60 E驱混动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口沃尔沃"
+    "name": "进口沃尔沃",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "沃尔沃V40"
+    "name": "沃尔沃V40",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃S60"
+    "name": "沃尔沃S60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃S60 Polestar"
+    "name": "沃尔沃S60 Polestar",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃V60"
+    "name": "沃尔沃V60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃V60 Polestar"
+    "name": "沃尔沃V60 Polestar",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃V90"
+    "name": "沃尔沃V90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃XC40"
+    "name": "沃尔沃XC40",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃XC90"
+    "name": "沃尔沃XC90",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃尔沃XC90 E驱混动"
+    "name": "沃尔沃XC90 E驱混动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "五十铃"
+    "name": "五十铃",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "江西五十铃"
+    "name": "江西五十铃",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "铃拓"
+    "name": "铃拓",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "D-MAX"
+    "name": "D-MAX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "mu-X牧游侠"
+    "name": "mu-X牧游侠",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "潍柴英致"
+    "name": "潍柴英致",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "潍柴汽车"
+    "name": "潍柴汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "英致EX1"
+    "name": "英致EX1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英致G3"
+    "name": "英致G3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英致G5"
+    "name": "英致G5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英致727"
+    "name": "英致727",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英致737"
+    "name": "英致737",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英致737EV"
+    "name": "英致737EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蔚来汽车"
+    "name": "蔚来汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "蔚来汽车"
+    "name": "蔚来汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "蔚来ET"
+    "name": "蔚来ET",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蔚来ES6"
+    "name": "蔚来ES6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蔚来ES8"
+    "name": "蔚来ES8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "蔚来EP9"
+    "name": "蔚来EP9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威马汽车"
+    "name": "威马汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "威马汽车"
+    "name": "威马汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "威马EX5"
+    "name": "威马EX5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威马EX6"
+    "name": "威马EX6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "现代"
+    "name": "现代",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "北京现代"
+    "name": "北京现代",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "瑞纳"
+    "name": "瑞纳",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "悦纳"
+    "name": "悦纳",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "悦纳RV"
+    "name": "悦纳RV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "伊兰特EV"
+    "name": "伊兰特EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "悦动"
+    "name": "悦动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "逸行"
+    "name": "逸行",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领动"
+    "name": "领动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领动PHEV"
+    "name": "领动PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "菲斯塔"
+    "name": "菲斯塔",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "名图"
+    "name": "名图",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "索纳塔"
+    "name": "索纳塔",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "索纳塔PHEV"
+    "name": "索纳塔PHEV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "ENCINO 昂希诺"
+    "name": "ENCINO 昂希诺",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "昂希诺纯电动"
+    "name": "昂希诺纯电动",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "现代ix25"
+    "name": "现代ix25",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "现代ix35"
+    "name": "现代ix35",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "途胜"
+    "name": "途胜",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "胜达"
+    "name": "胜达",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口现代"
+    "name": "进口现代",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Veloster飞思"
+    "name": "Veloster飞思",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雅尊"
+    "name": "雅尊",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "捷恩斯"
+    "name": "捷恩斯",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "格越"
+    "name": "格越",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "H-1辉翼"
+    "name": "H-1辉翼",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "四川现代"
+    "name": "四川现代",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "康恩迪"
+    "name": "康恩迪",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雪佛兰"
+    "name": "雪佛兰",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "上汽通用雪佛兰"
+    "name": "上汽通用雪佛兰",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "赛欧3"
+    "name": "赛欧3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "乐风RV"
+    "name": "乐风RV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "科沃兹"
+    "name": "科沃兹",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新科鲁兹"
+    "name": "新科鲁兹",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新科鲁兹两厢"
+    "name": "新科鲁兹两厢",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "科鲁泽"
+    "name": "科鲁泽",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "沃兰多"
+    "name": "沃兰多",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "迈锐宝XL"
+    "name": "迈锐宝XL",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "创酷"
+    "name": "创酷",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "创界"
+    "name": "创界",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "探界者"
+    "name": "探界者",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口雪佛兰"
+    "name": "进口雪佛兰",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "科迈罗"
+    "name": "科迈罗",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "科尔维特"
+    "name": "科尔维特",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "库罗德"
+    "name": "库罗德",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "索罗德"
+    "name": "索罗德",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雪铁龙"
+    "name": "雪铁龙",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风雪铁龙"
+    "name": "东风雪铁龙",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "爱丽舍"
+    "name": "爱丽舍",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "C4世嘉"
+    "name": "C4世嘉",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雪铁龙C4L"
+    "name": "雪铁龙C4L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雪铁龙C5"
+    "name": "雪铁龙C5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雪铁龙C6"
+    "name": "雪铁龙C6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "雪铁龙C3-XR"
+    "name": "雪铁龙C3-XR",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "云逸 C4 AIRCROSS"
+    "name": "云逸 C4 AIRCROSS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "天逸 C5 AIRCROSS"
+    "name": "天逸 C5 AIRCROSS",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口雪铁龙"
+    "name": "进口雪铁龙",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "C4 PICASSO"
+    "name": "C4 PICASSO",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "新特"
+    "name": "新特",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "新特"
+    "name": "新特",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "新特DEV1"
+    "name": "新特DEV1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "鑫源新能源"
+    "name": "鑫源新能源",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华晨鑫源"
+    "name": "华晨鑫源",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "新海狮EV"
+    "name": "新海狮EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "小鹏汽车"
+    "name": "小鹏汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "小鹏汽车"
+    "name": "小鹏汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "小鹏汽车G3"
+    "name": "小鹏汽车G3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "小鹏汽车P7"
+    "name": "小鹏汽车P7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "星途"
+    "name": "星途",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "星途"
+    "name": "星途",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "星途-LX"
+    "name": "星途-LX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "星途-TX"
+    "name": "星途-TX",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪"
+    "name": "英菲尼迪",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "东风英菲尼迪"
+    "name": "东风英菲尼迪",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "英菲尼迪Q50L"
+    "name": "英菲尼迪Q50L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪QX50"
+    "name": "英菲尼迪QX50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "进口英菲尼迪"
+    "name": "进口英菲尼迪",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "英菲尼迪Q50"
+    "name": "英菲尼迪Q50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪Q60"
+    "name": "英菲尼迪Q60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪Q70L"
+    "name": "英菲尼迪Q70L",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪ESQ"
+    "name": "英菲尼迪ESQ",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪QX30"
+    "name": "英菲尼迪QX30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪QX60"
+    "name": "英菲尼迪QX60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪QX70"
+    "name": "英菲尼迪QX70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "英菲尼迪QX80"
+    "name": "英菲尼迪QX80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "驭胜"
+    "name": "驭胜",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "江铃汽车"
+    "name": "江铃汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "驭胜S330"
+    "name": "驭胜S330",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "驭胜S350"
+    "name": "驭胜S350",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "一汽"
+    "name": "一汽",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "天津一汽"
+    "name": "天津一汽",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "威志V5"
+    "name": "威志V5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "夏利N5"
+    "name": "夏利N5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "夏利N7"
+    "name": "夏利N7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骏派A50"
+    "name": "骏派A50",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骏派A70"
+    "name": "骏派A70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骏派A70E"
+    "name": "骏派A70E",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骏派CX65"
+    "name": "骏派CX65",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骏派D60"
+    "name": "骏派D60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "骏派D80"
+    "name": "骏派D80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "一汽吉林"
+    "name": "一汽吉林",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "森雅R7"
+    "name": "森雅R7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "森雅R7 EV"
+    "name": "森雅R7 EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "森雅R8"
+    "name": "森雅R8",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "森雅R9"
+    "name": "森雅R9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "佳宝V75"
+    "name": "佳宝V75",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "佳宝V77"
+    "name": "佳宝V77",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "佳宝V80"
+    "name": "佳宝V80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "一汽红塔"
+    "name": "一汽红塔",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "蓝舰T340"
+    "name": "蓝舰T340",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "野马汽车"
+    "name": "野马汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "野马汽车"
+    "name": "野马汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "博骏"
+    "name": "博骏",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "野马EC60"
+    "name": "野马EC60",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "野马T70"
+    "name": "野马T70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "野马T80"
+    "name": "野马T80",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "斯派卡"
+    "name": "斯派卡",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "野马EC70"
+    "name": "野马EC70",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "野马EC30"
+    "name": "野马EC30",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "依维柯"
+    "name": "依维柯",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "南京依维柯"
+    "name": "南京依维柯",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "Daily欧胜"
+    "name": "Daily欧胜",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "裕路汽车"
+    "name": "裕路汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "裕路汽车"
+    "name": "裕路汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "裕路EV2"
+    "name": "裕路EV2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "云度"
+    "name": "云度",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "云度"
+    "name": "云度",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "云度π1"
+    "name": "云度π1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "云度π3"
+    "name": "云度π3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "云度π7"
+    "name": "云度π7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "云雀汽车"
+    "name": "云雀汽车",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "云雀汽车"
+    "name": "云雀汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "云雀Q1"
+    "name": "云雀Q1",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中华"
+    "name": "中华",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华晨中华"
+    "name": "华晨中华",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "中华H230EV"
+    "name": "中华H230EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中华H3"
+    "name": "中华H3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中华H530"
+    "name": "中华H530",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中华V3"
+    "name": "中华V3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中华V6"
+    "name": "中华V6",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中华V7"
+    "name": "中华V7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰"
+    "name": "众泰",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "众泰汽车"
+    "name": "众泰汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "芝麻"
+    "name": "芝麻",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "云100"
+    "name": "云100",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰E200"
+    "name": "众泰E200",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰Z360"
+    "name": "众泰Z360",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰Z500EV"
+    "name": "众泰Z500EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰Z560"
+    "name": "众泰Z560",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰Z700H"
+    "name": "众泰Z700H",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰T300"
+    "name": "众泰T300",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰T300EV"
+    "name": "众泰T300EV",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰T500"
+    "name": "众泰T500",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰T600"
+    "name": "众泰T600",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰T600 Coupe"
+    "name": "众泰T600 Coupe",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰T700"
+    "name": "众泰T700",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰T800"
+    "name": "众泰T800",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰SR7"
+    "name": "众泰SR7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰SR9"
+    "name": "众泰SR9",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大迈X5"
+    "name": "大迈X5",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "大迈X7"
+    "name": "大迈X7",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "众泰A16"
+    "name": "众泰A16",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中兴"
+    "name": "中兴",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "广汽中兴"
+    "name": "广汽中兴",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "中兴C3"
+    "name": "中兴C3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中兴GX3"
+    "name": "中兴GX3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "中兴汽车"
+    "name": "中兴汽车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "小老虎"
+    "name": "小老虎",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "威虎"
+    "name": "威虎",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "领主"
+    "name": "领主",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "之诺"
+    "name": "之诺",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "华晨宝马"
+    "name": "华晨宝马",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "之诺60H"
+    "name": "之诺60H",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "之诺1E"
+    "name": "之诺1E",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "知豆"
+    "name": "知豆",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "知豆电动车"
+    "name": "知豆电动车",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "知豆D2"
+    "name": "知豆D2",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "知豆D2S"
+    "name": "知豆D2S",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "知豆D3"
+    "name": "知豆D3",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "正道"
+    "name": "正道",
+    "circleR": 15,
+    "group": 1
   },
   {
-    "name": "正道"
+    "name": "正道",
+    "circleR": 10,
+    "group": 2
   },
   {
-    "name": "正道GT"
+    "name": "正道GT",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "正道H500"
+    "name": "正道H500",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "正道H600"
+    "name": "正道H600",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "正道K350"
+    "name": "正道K350",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "正道K550"
+    "name": "正道K550",
+    "circleR": 5,
+    "group": 3
   },
   {
-    "name": "正道K750"
+    "name": "正道K750",
+    "circleR": 5,
+    "group": 3
   }
 ]

@@ -10,5 +10,7 @@ def readJson(file_path):
 
 
 if __name__ == '__main__':
-    nodes_file = "../static/json/nodes.json"
+    nodes_file = "../static/json/brands.json"
     nodes_data = readJson(nodes_file);
+    print(nodes_data[0]["nodes"])
+    print(nodes_data[0]["links"])

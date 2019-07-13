@@ -34,12 +34,13 @@ def relationship_graph(request):
     nodes_data = readJson.readJson(nodes_file)
     edges_file = "static/json/edges.json"
     edges_data = readJson.readJson(edges_file)
-
+    brands_file = "static/json/brands.json"
+    brands_data = readJson.readJson(brands_file)
     # 2.将模板渲染成字符串
     # html = t.render()
     # 3.将字符串通过HttpResponse响应给浏览器
     # return HttpResponse(html)
-    return render(request, "relationshipGraph.html", {"nodes_data": nodes_data, "edges_data": edges_data})
+    return render(request, "relationshipGraph.html", {"nodes_data": nodes_data, "edges_data": edges_data,"brands_data":brands_data})
 
 
 # 实体识别
