@@ -1,8 +1,10 @@
 from django.urls import re_path
+from entityRecognition import entityRec
 from . import views
 
 urlpatterns = [
     # 实体识别
+    re_path(r'^ner-post', entityRec.ner_post),
     re_path(r'^entity_recognition/$', views.entity_recognition),
     # 关系图谱
     re_path(r'^relationship_graph/$', views.relationship_graph),
