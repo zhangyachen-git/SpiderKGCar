@@ -13,53 +13,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/entityRecognition.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="104" column="14" lean-forward="true" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/entityRecognition/entityRec.py">
+        <entry file="file://$PROJECT_DIR$/entityRecognition/nlp_ner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+            <state relative-caret-position="560">
+              <caret line="188" column="20" selection-start-line="185" selection-start-column="11" selection-end-line="188" selection-end-column="61" />
               <folding>
-                <element signature="e#0#47#0" expanded="true" />
+                <element signature="e#25#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KgCar/settings.py">
+        <entry file="file://$PROJECT_DIR$/entityRecognition/entityRec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1575">
-              <caret line="63" column="70" selection-start-line="63" selection-start-column="70" selection-end-line="63" selection-end-column="70" />
+            <state relative-caret-position="771">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,13 +101,14 @@
         <option value="$PROJECT_DIR$/index/urls.py" />
         <option value="$PROJECT_DIR$/index/views.py" />
         <option value="$PROJECT_DIR$/templates/entityRecognition.html" />
+        <option value="$PROJECT_DIR$/entityRecognition/pre_load.py" />
         <option value="$PROJECT_DIR$/entityRecognition/entityRec.py" />
+        <option value="$PROJECT_DIR$/entityRecognition/nlp_ner.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="947" />
-    <option name="y" value="-2" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -150,6 +130,11 @@
               <item name="KgCar" type="462c0819:PsiDirectoryNode" />
               <item name="entityRecognition" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KgCar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KgCar" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,24 +146,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\entityRecognition" />
+      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\static\js" />
+      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\static" />
+      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js\echarts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar" />
       <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates" />
       <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\json" />
       <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js\echarts" />
       <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\entityRecognition" />
-      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\static\js" />
-      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\static" />
-      <recent name="F:\Work Spaces\PyCharm\SpiderKGCar\trunk\web\KgCar\templates\js\echarts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -193,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.entityRec">
+  <component name="RunManager" selected="Django server.KgCar">
     <configuration name="entityRec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KgCar" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,6 +196,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entityRecognition/entityRec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nlp_ner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KgCar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/entityRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entityRecognition/nlp_ner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_load" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KgCar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/entityRecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entityRecognition/pre_load.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,6 +296,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nlp_ner" />
+        <item itemvalue="Python.pre_load" />
         <item itemvalue="Python.entityRec" />
         <item itemvalue="Python.readJson" />
       </list>
@@ -300,23 +334,25 @@
       <workItem from="1563245368690" duration="340000" />
       <workItem from="1563247626984" duration="1053000" />
       <workItem from="1563253941682" duration="2226000" />
-      <workItem from="1563281446740" duration="8958000" />
+      <workItem from="1563281446740" duration="11688000" />
+      <workItem from="1563321759032" duration="5108000" />
+      <workItem from="1563367531006" duration="4338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90040000" />
+    <option name="totallyTimeSpent" value="102216000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="947" y="-2" width="974" height="1087" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1087" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20350109" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.073304154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3255814" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2777778" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28197065" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39922482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,8 +374,10 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/KgCar$entityRec.coverage" NAME="entityRec Coverage Results" MODIFIED="1563294393457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entityRecognition" />
+    <SUITE FILE_PATH="coverage/KgCar$nlp_ner.coverage" NAME="nlp_ner Coverage Results" MODIFIED="1563370228766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entityRecognition" />
+    <SUITE FILE_PATH="coverage/KgCar$entityRec.coverage" NAME="entityRec Coverage Results" MODIFIED="1563296102456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entityRecognition" />
     <SUITE FILE_PATH="coverage/KgCar$readJson.coverage" NAME="readJson Coverage Results" MODIFIED="1563020359064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/index" />
+    <SUITE FILE_PATH="coverage/KgCar$pre_load.coverage" NAME="pre_load Coverage Results" MODIFIED="1563368348315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entityRecognition" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/templates/js/echarts.all.js" />
@@ -457,20 +495,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/toolkit/nlp_ner.py" />
     <entry file="file://$PROJECT_DIR$/index/tests.py" />
-    <entry file="file://$PROJECT_DIR$/templates/entityRecognition.html">
+    <entry file="file://$PROJECT_DIR$/KgCar/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="63" column="70" selection-start-line="63" selection-start-column="70" selection-end-line="63" selection-end-column="70" />
         </state>
       </provider>
     </entry>
@@ -484,19 +512,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KgCar/settings.py">
+    <entry file="file://$PROJECT_DIR$/index/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="63" column="70" selection-start-line="63" selection-start-column="70" selection-end-line="63" selection-end-column="70" />
+        <state relative-caret-position="400">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entityRecognition/pre_load.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/entityRecognition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="104" column="14" lean-forward="true" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/entityRecognition/entityRec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+        <state relative-caret-position="771">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entityRecognition/nlp_ner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="188" column="20" selection-start-line="185" selection-start-column="11" selection-end-line="188" selection-end-column="61" />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
