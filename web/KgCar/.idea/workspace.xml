@@ -22,7 +22,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/entityRecognition/nlp_ner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
+            <state relative-caret-position="665">
               <caret line="188" column="20" selection-start-line="185" selection-start-column="11" selection-end-line="188" selection-end-column="61" />
               <folding>
                 <element signature="e#25#38#0" expanded="true" />
@@ -107,8 +107,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="947" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -336,23 +336,22 @@
       <workItem from="1563253941682" duration="2226000" />
       <workItem from="1563281446740" duration="11688000" />
       <workItem from="1563321759032" duration="5108000" />
-      <workItem from="1563367531006" duration="4338000" />
+      <workItem from="1563367531006" duration="5036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102216000" />
+    <option name="totallyTimeSpent" value="102914000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1087" extended-state="1" />
-    <editor active="true" />
+    <frame x="947" y="0" width="974" height="1087" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.073304154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3255814" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28197065" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28197065" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39922482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -548,7 +547,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/entityRecognition/nlp_ner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
+        <state relative-caret-position="665">
           <caret line="188" column="20" selection-start-line="185" selection-start-column="11" selection-end-line="188" selection-end-column="61" />
           <folding>
             <element signature="e#25#38#0" expanded="true" />
